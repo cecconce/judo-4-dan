@@ -19,7 +19,7 @@
 | *Katame-waza* | 固技 | tecniche di controllo |
 | *Te-waza* / *Koshi-waza* / *Ashi-waza* | 手技 / 腰技 / 足技 | tecniche di mano / bacino / gamba |
 | *Ma-sutemi-waza* / *Yoko-sutemi-waza* | 真捨技 / 横捨技 | sacrificio supino / laterale |
-| *Osae-komi-waza* | 押込技 | immobilizzazioni |
+| *Osae-komi-waza* | 抑込技 | immobilizzazioni |
 | *Shime-waza* | 絞技 | strangolamenti |
 | *Kansetsu-waza* | 関節技 | leve articolari |
 | *Renraku-waza* | 連絡技 | tecniche di collegamento |

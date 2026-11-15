@@ -15,7 +15,7 @@ ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "c"
 SITE = "Judo 4° Dan"
-VERSION = "v1"
+VERSION = "v2"
 
 
 def slugify_title(md_text):
@@ -99,7 +99,7 @@ def build():
         old.unlink()
 
     def nav_html(base, current=None):
-        items = []
+        items = [f'    <li><a{" class=\"cur\"" if current == "quiz" else ""} href="{base}quiz.html">🧩 Quiz a risposta multipla</a></li>']
         for c in chapters:
             cls = ' class="cur"' if c["slug"] == current else ""
             items.append(
@@ -154,6 +154,18 @@ def build():
             encoding="utf-8",
         )
 
+    # quiz
+    quiz_main = (
+        '<h1>Quiz a risposta multipla</h1>\n'
+        '<div id="quiz"><p>Caricamento…</p></div>\n'
+        '<noscript><p>Il quiz richiede JavaScript.</p></noscript>\n'
+        '<script src="assets/quiz.js"></script>'
+    )
+    (ROOT / "quiz.html").write_text(
+        PAGE.format(title="Quiz", site=SITE, base="", nav=nav_html("", "quiz"), main=quiz_main),
+        encoding="utf-8",
+    )
+
     # home
     cards = "\n".join(
         f'<li><a href="c/{c["slug"]}.html"><b>{html.escape(c["title"])}</b></a></li>' for c in chapters
@@ -163,6 +175,7 @@ def build():
 <p>Storia, filosofia e tecniche del judo, Gokyō con video Kōdōkan, Katame-waza, Renraku, Gaeshi e Difese (Go, Chōwa, Yawara), Sen, Kime no Kata, Goshin-jutsu, organizzazione FIJLKAM, memorizzazione dei nomi, video.
 Pensato per lo studio da telefono, anche offline.</p>
 </section>
+<a class="qlink" href="quiz.html">🧩 Fai il quiz: 4 risposte, scegli gli argomenti e fino a 30 domande</a>
 <section id="cerca">
 <input id="q" type="search" placeholder="Cerca (es. uchi-mata, kuzushi, 1895…)" autocomplete="off" aria-label="Cerca nel manuale">
 <ul id="results" class="results"></ul>
@@ -187,7 +200,7 @@ Pensato per lo studio da telefono, anche offline.</p>
     (ROOT / "search.json").write_text(json.dumps(search, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     precache = (
-        ["./", "index.html", "search.json", "assets/style.css", "assets/app.js", "manifest.webmanifest", "icon.svg"]
+        ["./", "index.html", "quiz.html", "assets/quiz.js", "assets/quiz.json", "search.json", "assets/style.css", "assets/app.js", "manifest.webmanifest", "icon.svg"]
         + [f"c/{c['slug']}.html" for c in chapters]
         + sorted(f"assets/img/{f.name}" for f in (ROOT / "assets" / "img").glob("*") if f.is_file())
     )
