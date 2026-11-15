@@ -15,7 +15,7 @@ ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "c"
 SITE = "Judo 4° Dan"
-VERSION = "v4"
+VERSION = "v5"
 
 
 def slugify_title(md_text):
@@ -207,19 +207,28 @@ Lo uso per studiare da telefono, anche offline.</p>
     sw = f"""const CACHE = 'judo4dan-{VERSION}-{len(chapters)}-{sum(len(c['text']) for c in chapters)}';
 const FILES = {json.dumps(precache)};
 self.addEventListener('install', e => {{
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then(c => Promise.all(FILES.map(u => fetch(u, {{cache: 'reload'}}).then(r => {{ if (!r.ok) throw new Error(u); return c.put(u, r); }})))).then(() => self.skipWaiting()));
 }});
 self.addEventListener('activate', e => {{
   e.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 }});
 self.addEventListener('fetch', e => {{
   if (e.request.method !== 'GET') return;
+  const u = new URL(e.request.url);
+  if (u.origin !== location.origin) return;
+  const isImg = /\\.(jpe?g|png|webp|gif|svg)$/i.test(u.pathname) && u.pathname.includes('/assets/img/');
+  if (isImg) {{
+    e.respondWith(caches.match(e.request).then(hit => hit || fetch(e.request).then(r => {{
+      const copy = r.clone(); caches.open(CACHE).then(c => c.put(e.request, copy)); return r;
+    }})));
+    return;
+  }}
+  // pagine, script, dati: prima la rete (contenuto aggiornato), poi la copia offline
   e.respondWith(
-    caches.match(e.request).then(hit => hit || fetch(e.request).then(r => {{
-      const copy = r.clone();
-      caches.open(CACHE).then(c => c.put(e.request, copy));
+    fetch(e.request, {{cache: 'no-cache'}}).then(r => {{
+      if (r.ok) {{ const copy = r.clone(); caches.open(CACHE).then(c => c.put(e.request, copy)); }}
       return r;
-    }}))
+    }}).catch(() => caches.match(e.request, {{ignoreSearch: true}}).then(hit => hit || caches.match('index.html')))
   );
 }});
 """
