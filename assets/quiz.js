@@ -11,9 +11,7 @@ function setup(keepN){
  data.topics.forEach(function(t){
   h+='<label class="qt'+(sel[t.id]?' on':'')+'"><input type="checkbox" data-id="'+t.id+'"'+(sel[t.id]?' checked':'')+'><span>'+esc(t.title)+'</span><small>'+t.n+'</small></label>';
  });
- h+='</div><h2>Numero di domande</h2><div class="qnum"><div class="qchips">';
- [10,20,30,40,50].forEach(function(n){h+='<button type="button" class="chip" data-n="'+n+'">'+n+'</button>'});
- h+='</div><label>oppure: <input id="q-n" type="number" min="1" max="'+MAXQ+'" value="'+n0+'" inputmode="numeric"></label></div>';
+ h+='</div><h2>Numero di domande</h2><div class="qnum"><label>Scrivi il numero (da 1 a '+MAXQ+'): <input id="q-n" type="number" min="1" max="'+MAXQ+'" value="'+n0+'" inputmode="numeric" pattern="[0-9]*"></label></div>';
  h+='<p id="q-info" class="qhint"></p><button type="button" id="q-start" class="qgo">Inizia il quiz</button>';
  root.innerHTML=h;
  var num=document.getElementById('q-n'),info=document.getElementById('q-info'),go=document.getElementById('q-start');
@@ -22,14 +20,12 @@ function setup(keepN){
   if(v>cap){v=cap;num.value=cap}
   if(v<1&&a>0){v=1;num.value=1}
   num.max=Math.max(1,cap);
-  Array.prototype.forEach.call(root.querySelectorAll('.chip'),function(c){var n=+c.dataset.n;c.classList.toggle('on',n===v);c.disabled=n>a});
   info.textContent=a?('Domande disponibili negli argomenti scelti: '+a+'. Massimo per quiz: '+MAXQ+'.'):'Seleziona almeno un argomento.';
   go.disabled=!a;
  }
  root.querySelectorAll('.qt input').forEach(function(i){i.onchange=function(){sel[i.dataset.id]=i.checked;i.parentNode.classList.toggle('on',i.checked);refresh()}});
  document.getElementById('q-all').onclick=function(){data.topics.forEach(function(t){sel[t.id]=true});setup(+num.value)};
  document.getElementById('q-none').onclick=function(){sel={};setup(+num.value)};
- root.querySelectorAll('.chip').forEach(function(c){c.onclick=function(){num.value=c.dataset.n;refresh()}});
  num.oninput=refresh;
  go.onclick=function(){start(parseInt(num.value,10)||10)};
  refresh();
