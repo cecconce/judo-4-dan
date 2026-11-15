@@ -83,8 +83,8 @@ PAGE = """<!doctype html>
 {main}
 </main>
 <footer class="foot">
-  Manuale di studio Pierluigi Ceccon · strumento di studio personale: la pratica sul tatami con il maestro resta il riferimento.
-  Per date, quote e requisiti verifica sempre le circolari FIJLKAM dell'anno in corso.
+  Manuale di studio Pierluigi Ceccon · il mio strumento di studio personale: la pratica sul tatami con il mio maestro resta il riferimento.
+  Per date, quote e requisiti controllo sempre le circolari FIJLKAM dell'anno in corso.
 </footer>
 <script src="{base}assets/app.js"></script>
 </body>
@@ -173,7 +173,7 @@ def build():
     home = f"""<section class="hero">
 <h1>柔道 · Manuale di studio per il 4° Dan</h1>
 <p>Storia, filosofia e tecniche del judo, Gokyō con video Kōdōkan, Katame-waza, Renraku, Gaeshi e Difese (Go, Chōwa, Yawara), Sen, Kime no Kata, Goshin-jutsu, organizzazione FIJLKAM, memorizzazione dei nomi, video.
-Pensato per lo studio da telefono, anche offline.</p>
+Lo uso per studiare da telefono, anche offline.</p>
 </section>
 <a class="qlink" href="quiz.html">🧩 Fai il quiz: 4 risposte, scegli gli argomenti e fino a 30 domande</a>
 <section id="cerca">

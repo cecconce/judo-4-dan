@@ -1,6 +1,6 @@
 # Video e risorse online
 
-Raccolta dei link ai video sul judo. I video si aprono su YouTube (serve la rete). Collegamenti verificati a novembre 2026: i canali di terzi possono rimuovere o rinominare i video, quelli del KODOKAN sono la fonte ufficiale. **La pratica sul tatami con il maestro resta il riferimento.**
+La mia raccolta dei link ai video sul judo. I video si aprono su YouTube (serve la rete). Collegamenti controllati a novembre 2026: i canali di terzi possono rimuovere o rinominare i video, quelli del KODOKAN sono la fonte ufficiale. **La pratica sul tatami con il mio maestro resta il riferimento.**
 
 ## 1. Canale ufficiale KODOKAN
 

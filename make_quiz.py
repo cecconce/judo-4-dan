@@ -165,7 +165,7 @@ h("01", "In quale edizione dei Giochi olimpici esordì il judo maschile?", "Toky
 h("01", "Kanō Jigorō divenne nel 1909 un membro particolare del CIO: quale?", "Il primo membro asiatico della storia del CIO", ["Il primo presidente del CIO", "Il primo giapponese medaglia d'oro", "Il fondatore dei Giochi del 1940"], "Cap. 1, §1.4.")
 h("01", "Quando e dove fu fondata la Federazione Jiu-Jitsuista Italiana (FJJI)?", "Il 30 marzo 1924 a Roma, da ventotto società",
   ["Il 18 gennaio 1902 a Milano", "Il 1° luglio 2000 a Ostia", "Il 29 marzo 1981 a Roma"], "Cap. 1, §1.5.")
-h("01", "Quante medaglie olimpiche ha vinto il judo italiano (dato del manuale) e quanti ori?", "19 medaglie, di cui 5 ori", ["12 medaglie, di cui 3 ori", "25 medaglie, di cui 8 ori", "19 medaglie, di cui 2 ori"], "Cap. 1, §1.5: verifica l'aggiornamento dopo le ultime Olimpiadi.")
+h("01", "Quante medaglie olimpiche ha vinto il judo italiano (dato del manuale) e quanti ori?", "19 medaglie, di cui 5 ori", ["12 medaglie, di cui 3 ori", "25 medaglie, di cui 8 ori", "19 medaglie, di cui 2 ori"], "Cap. 1, §1.5: da verificare dopo le ultime Olimpiadi.")
 h("01", "Quale tecnica era legata alla vittoria leggendaria di Saigō Shirō su Terushima Tarō?", "Yama-arashi (山嵐)", ["Uchi-mata", "Tomoe-nage", "Seoi-nage"], "Cap. 1, §1.3: episodio di tradizione; lo yama-arashi non è nella nomenclatura ufficiale.")
 
 # 02 Filosofia
@@ -267,9 +267,9 @@ h("15", "Da quando si chiama FIJLKAM la federazione?", "Dal 1° luglio 2000", ["
 h("15", "Dove ha sede la FIJLKAM?", "Ostia Lido (Roma), Centro Olimpico «Matteo Pellicone»", ["Milano", "Roma, Foro Italico", "Formia"], "Cap. 15, §1.3.")
 h("15", "Quale organo è sovrano nella Federazione?", "L'Assemblea Nazionale", ["Il Consiglio Federale", "Il Presidente", "La Giunta CONI"], "Cap. 15, §2.1.")
 h("15", "Come si esprime il voto delle società nell'Assemblea?", "In modo ponderato: un voto base più voti plurimi per la classifica del quadriennio", ["Un voto per società", "Un voto per tesserato", "Solo i presidenti regionali votano"], "Cap. 15, §2.1 (art. 6 Statuto).")
-h("15", "Quanti tesserati attivi (stagione 2023) riporta il manuale?", "129.826", ["105.935", "83.516", "107.569"], "Cap. 15, §1.4: verifica i dati aggiornati.")
+h("15", "Quanti tesserati attivi (stagione 2023) riporta il manuale?", "129.826", ["105.935", "83.516", "107.569"], "Cap. 15, §1.4: dati da verificare sulle fonti aggiornate.")
 h("15", "Quando si riunisce l'Assemblea Nazionale Ordinaria elettiva?", "Entro il 15 marzo dell'anno successivo ai Giochi Olimpici", ["Ogni anno a gennaio", "Entro il 30 giugno di ogni anno", "Ogni due anni a ottobre"], "Cap. 15, §2.1.")
-h("15", "Quante società minime servono per costituire un Comitato Regionale?", "Almeno 10 società con diritto di voto", ["Almeno 3", "Almeno 25", "Almeno 50"], "Cap. 15, §1.4: verifica lo Statuto in vigore.")
+h("15", "Quante società minime servono per costituire un Comitato Regionale?", "Almeno 10 società con diritto di voto", ["Almeno 3", "Almeno 25", "Almeno 50"], "Cap. 15, §1.4: da verificare sullo Statuto in vigore.")
 
 # 16 Suddivisione
 h("16", "Quali sono le tre famiglie del judo Kōdōkan?", "Nage-waza, Katame-waza, Atemi-waza", ["Tachi-waza, Sutemi-waza, Makikomi-waza", "Te-waza, Koshi-waza, Ashi-waza", "Kesa, Shiho, Garami"], "Cap. 16 e cap. 4.")

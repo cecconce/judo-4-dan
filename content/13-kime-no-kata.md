@@ -2,7 +2,7 @@
 
 *Manuale di studio — Pierluigi Ceccon*
 
-**Avvertenza.** Strumento di studio, non sostituto della pratica sul tatami con il maestro. Per date, sedi e requisiti dell'esame verifica sempre la circolare FIJLKAM dell'anno in corso.
+**Nota personale.** Questo è il mio strumento di studio: non sostituisce la pratica sul tatami con il mio maestro. Per date, sedi e requisiti dell'esame controllo sempre la circolare FIJLKAM dell'anno in corso.
 
 Il Kime no Kata (極の形, «forme della decisione») è il kata del combattimento reale del Kōdōkan: **20 tecniche**, 8 in ginocchio (*Idori*, 居取) e 12 in piedi (*Tachiai*, 立合), contro attacchi a mani nude, con pugnale (*tantō*) e con spada (*tachi*). Insegna le tecniche più efficaci in uno scontro vero, con gli *atemi* (percosse ai punti vitali) vietati in randori.
 
@@ -288,7 +288,7 @@ La commissione giudica ogni tecnica su sei criteri IJF: preparazione, squilibrio
 
 ## Metodo di studio
 
-**Studia per famiglie, ripeti in ordine.**
+**Studio per famiglie e ripeto in ordine.**
 
 | Famiglia | Tecniche | Cosa le accomuna |
 | --- | --- | --- |
@@ -299,14 +299,14 @@ La commissione giudica ogni tecnica su sei criteri IJF: preparazione, squilibrio
 | Finale con atemi | 4, 15 | nessuna leva, il colpo chiude la tecnica |
 | Hiza-gatame a terra | 3 | unica conclusione con Uke prono |
 
-**Abitudini che funzionano**
+**Le abitudini che mi aiutano**
 
-- Ogni giorno, anche senza tatami, recita i 20 nomi ad alta voce (vedi la pagina *Memorizzazione*).
-- Filma e confronta con il video ufficiale Kōdōkan, tecnica per tecnica.
-- Allenati anche come Uke: all'esame il realismo dell'attacco pesa quanto la difesa.
-- Ripassa il cerimoniale per ultimo in ogni seduta: è dove si perdono punti facili.
+- Ogni giorno, anche senza tatami, recito i 20 nomi ad alta voce (vedi la pagina *Memorizzazione*).
+- Mi filmo e confronto con il video ufficiale Kōdōkan, tecnica per tecnica.
+- Mi alleno anche come Uke: all'esame il realismo dell'attacco pesa quanto la difesa.
+- Ripasso il cerimoniale per ultimo in ogni seduta: è dove si perdono punti facili.
 
-*Il piano settimanale dipende dalla data d'esame: usa la modalità PIANO del progetto. Date e sede della sessione nazionale: verificare la circolare FIJLKAM.*
+*Il mio piano settimanale dipende dalla data d'esame. Date e sede della sessione nazionale: da verificare sulla circolare FIJLKAM.*
 
 ## Video e fonti
 

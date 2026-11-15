@@ -77,7 +77,7 @@ function end(){
   h+='<h3>Da ripassare</h3><ul class="qrev">';
   wrong.forEach(function(q){var c=q.o.filter(function(o){return o.ok})[0];h+='<li><b>'+esc(q.q)+'</b><br>Risposta corretta: <em>'+esc(c.t)+'</em><br><small>'+esc(q.e)+'</small></li>'});
   h+='</ul>';
- }else h+='<p>Nessun errore. Ottimo lavoro: ripeti con altri argomenti o con più domande.</p>';
+ }else h+='<p>Nessun errore. Ripeto con altri argomenti o con più domande.</p>';
  h+='<div class="qnav">';
  if(wrong.length)h+='<button type="button" id="q-redo" class="qgo">Rifai gli errori ('+wrong.length+')</button>';
  h+='<button type="button" id="q-again" class="qgo alt">Stesso quiz, nuove domande</button><button type="button" id="q-new" class="ghost">Cambia argomenti</button></div>';

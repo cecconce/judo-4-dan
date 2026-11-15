@@ -1,6 +1,6 @@
 # Il tempo dell'azione: Sen, Go no sen, Sen no sen (先)
 
-*Capitolo integrativo. **Non presente nel manuale di studio:** le fonti sono esterne e le scuole di budō usano questi termini in modi diversi. Quando le definizioni divergono, lo segnalo.*
+*Capitolo che ho aggiunto io. **Non è nel mio manuale di studio:** le fonti sono esterne e le scuole di budō usano questi termini in modi diversi. Quando le definizioni divergono, lo segnalo.*
 
 ## 1. Il significato di «sen»
 
@@ -14,7 +14,7 @@ Il carattere 先 si legge *sen* o *saki* e significa «prima», «davanti». Nel
 | **Sen no sen** | 先の先 | *durante* l'attacco, nel suo istante di partenza | cogliere l'attacco mentre nasce e precederlo |
 | **Sensen no sen** | 先々の先 | *prima* dell'attacco | anticipare l'intenzione, spesso vista come lo stadio più alto |
 
-**Attenzione alle definizioni.** Le fonti non concordano. Nell'aikidō *sen no sen* è presentato anche come tempo simultaneo («fondersi»), nel judo di Sacripanti la forma base si chiama semplicemente *Sen*. Una fonte di kendō ricorda che ogni stile assegna interpretazioni proprie a questi concetti. Per l'esame conviene usare le definizioni del tuo maestro e quella di Sacripanti qui sotto.
+**Attenzione alle definizioni.** Le fonti non concordano. Nell'aikidō *sen no sen* è presentato anche come tempo simultaneo («fondersi»), nel judo di Sacripanti la forma base si chiama semplicemente *Sen*. Una fonte di kendō ricorda che ogni stile assegna interpretazioni proprie a questi concetti. Per l'esame uso le definizioni del mio maestro e quella di Sacripanti qui sotto.
 
 ## 3. Lo schema del judo (Sacripanti)
 
@@ -34,17 +34,17 @@ I kaeshi si classificano in *nami* (stessa direzione dell'attacco), *gyaku* (opp
 
 ## 4. Go no sen non è solo «contrattaccare»
 
-Una fonte ricorda che *go no sen* non è semplice contrattacco: è uno stato mentale, un livello di concentrazione durante il combattimento. Un'altra osserva che il principiante lo usa spesso perché non sa ancora leggere i movimenti dell'avversario e aspetta di essere attaccato; per questo alcuni lo considerano insufficiente come strategia da solo. È un'opinione, non un fatto del programma: va tenuta come spunto di riflessione.
+Una fonte ricorda che *go no sen* non è semplice contrattacco: è uno stato mentale, un livello di concentrazione durante il combattimento. Un'altra osserva che il principiante lo usa spesso perché non sa ancora leggere i movimenti dell'avversario e aspetta di essere attaccato; per questo alcuni lo considerano insufficiente come strategia da solo. È un'opinione, non un fatto del programma: la tengo come spunto di riflessione.
 
 ## 5. Il «Go-no-sen-no-kata»: un'avvertenza
 
-Esiste un *Go-no-sen-no-kata* (後の先の形, «forme di contrattacco») che si trova nelle scuole europee. **Non è un kata ufficiale del Kōdōkan**: è entrato in uso grazie al libro di Kawaishi, *The complete seven katas of judo*, ed è stato presentato come kata formalizzato da insegnanti giapponesi in Europa. Non fa parte del programma d'esame del 4° dan. Utile come studio dei contrattacchi, da non confondere con i kata federali.
+Esiste un *Go-no-sen-no-kata* (後の先の形, «forme di contrattacco») che si trova nelle scuole europee. **Non è un kata ufficiale del Kōdōkan**: è entrato in uso grazie al libro di Kawaishi, *The complete seven katas of judo*, ed è stato presentato come kata formalizzato da insegnanti giapponesi in Europa. Non fa parte del programma d'esame del 4° dan. Lo trovo utile per studiare i contrattacchi, ma non va confuso con i kata federali.
 
 ## 6. Come si studia
 
-1. Scegliere una tecnica di uke (per esempio *o-uchi-gari*).
-2. Preparare la **risposta Go no sen** (difesa), il **Sen no sen** (kaeshi) e il **Sen** (renraku che parte dalla tua tecnica).
-3. Chiedersi sempre: *in quale momento rispetto all'attacco agisco?*
+1. Scelgo una tecnica di uke (per esempio *o-uchi-gari*).
+2. Preparo la **risposta Go no sen** (difesa), il **Sen no sen** (kaeshi) e il **Sen** (renraku che parte dalla mia tecnica).
+3. Mi chiedo sempre: *in quale momento rispetto all'attacco agisco?*
 
 ## 7. Video
 

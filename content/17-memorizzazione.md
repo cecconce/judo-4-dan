@@ -1,6 +1,6 @@
 # Memorizzazione: nomi delle tecniche di Kime e Goshin
 
-*Pagina di allenamento mnemonico. Per le sequenze complete vedi i capitoli 13 (Kime no Kata) e 14 (Goshin-jutsu). Nomi e kanji sono quelli dei due capitoli; la grafia di alcuni kanji può variare tra le fonti, da verificare sul testo ufficiale Kōdōkan.*
+*Pagina di allenamento mnemonico che uso per fissare i nomi. Per le sequenze complete rimando ai capitoli 13 (Kime no Kata) e 14 (Goshin-jutsu). Nomi e kanji sono quelli dei due capitoli; la grafia di alcuni kanji può variare tra le fonti, e la verifico sul testo ufficiale Kōdōkan.*
 
 ## 1. Kime no Kata (極の形): 8 + 12 = 20
 
@@ -83,7 +83,7 @@
 - Presa → stretta → colpo → calcio: le 12 vanno dalle prese (1–5, con destra/sinistra al 2 e 3) agli strangolamenti da dietro (6–7), poi ai colpi dall'alto al basso: tempia (8), mento (9), volto (10), calcio frontale (11), laterale (12).
 - Bersagli in sequenza (8–12): **tempia, mento, volto, inguine, fianco**.
 - Armi in ordine di distanza: **coltello** (corta) → **bastone** (media) → **pistola** (a distanza di perquisizione).
-- Il nome dell'arma non compare nel nome della tecnica: ricorda le tre azioni per ciascuna: coltello *tsukkake · choku-tsuki · naname-tsuki*; bastone *furi-age · furi-oroshi · morote-tsuki*; pistola *shomen · koshi · haimen*, davanti, all'anca, dietro.
+- Il nome dell'arma non compare nel nome della tecnica: mi ricordo le tre azioni di ciascuna: coltello *tsukkake · choku-tsuki · naname-tsuki*; bastone *furi-age · furi-oroshi · morote-tsuki*; pistola *shomen · koshi · haimen*, davanti, all'anca, dietro.
 - *-zuke* (付) = puntare l'arma; *-tsuki* (突) = affondare; *-age/-oroshi* = alzare/abbassare.
 
 ## 3. Confronto Kime e Goshin
@@ -100,13 +100,13 @@
 
 ## 4. Autoverifica
 
-Rispondi ad alta voce, poi controlla sotto.
+Rispondo ad alta voce, poi controllo sotto.
 
 **Kime**
 
 1. Quante tecniche in Idori e quante in Tachiai?
 2. Come si chiamano il «colpo che risale» (*suri-age*) in Idori e in Tachiai, e quale numero hanno?
-3. Elenca le tecniche con arma (6–8, 19–20) in ordine.
+3. Elencare le tecniche con arma (6–8, 19–20) in ordine.
 4. Qual è la prima tecnica in piedi?
 
 **Goshin**
@@ -131,4 +131,4 @@ Rispondi ad alta voce, poi controlla sotto.
 
 </details>
 
-*Per la verifica orale vera e propria usa la parola chiave INTERROGA nel progetto.*
+*Per la verifica orale vera e propria mi faccio interrogare dal mio maestro.*

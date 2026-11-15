@@ -1,12 +1,12 @@
 # Le difese: Go, Chōwa, Yawara (剛・調和・柔)
 
-*Capitolo integrativo. **Non presente nel manuale di studio:** la classificazione è ricavata da fonti esterne (soprattutto Attilio Sacripanti, commissario Knowledge dell'EJU e consulente FIJLKAM) e va confrontata con il testo dato dal tuo maestro. Verificare in particolare kanji e traduzioni.*
+*Capitolo che ho aggiunto io. **Non è nel mio manuale di studio:** la classificazione l'ho ricavata da fonti esterne (soprattutto Attilio Sacripanti, commissario Knowledge dell'EJU e consulente FIJLKAM) e la confronto con quello che mi dice il mio maestro. Kanji e traduzioni li verifico con lui.*
 
 ## 1. Dove si colloca
 
 Il capitolo 11 tratta le *Difese* (防御, *bōgyo*) come una delle tre forme di collegamento fra le tecniche. Qui si entra nel dettaglio: quando uke attacca e l'attacco non è ancora riuscito, tori può rispondere in modi diversi. Le fonti li raccolgono sotto il nome di **Bōgyo-waza** (防御技, «tecniche di difesa») e li fanno rientrare nel principio del **Go no sen** (後の先, capitolo 19): tori agisce *dopo* l'azione inefficace di uke.
 
-Per Sacripanti i principi sono **quattro**: *Go*, *Chōwa*, *Yawara* e *Ura*. Il tuo programma ne cita tre: l'ultimo, *Ura* (裏), è riportato qui per completezza.
+Per Sacripanti i principi sono **quattro**: *Go*, *Chōwa*, *Yawara* e *Ura*. Il mio programma ne cita tre: l'ultimo, *Ura* (裏), è riportato qui per completezza.
 
 ## 2. I tre principi
 
@@ -34,15 +34,15 @@ Sacripanti osserva che *Chōwa*, *Yawara* e *Ura* sono vicini al principio *seir
 
 ## 3. Come si prepara all'esame
 
-La commissione, al capitolo 11, vuole una difesa economica, tempestiva e senza resistenza cieca. Un modo efficace di studiare è fissare **lo stesso attacco** e preparare le risposte una alla volta:
+La commissione, al capitolo 11, vuole una difesa economica, tempestiva e senza resistenza cieca. Io studio fissando **lo stesso attacco** e preparando le risposte una alla volta:
 
-1. Scegli un attacco (la fonte usa *uchi-mata*, *tai-otoshi*, *morote-seoi-nage*, *o-soto-gari*).
-2. Prepara una risposta per ciascun principio: una che **ferma** (Go), una che **evita** (Chōwa, indicando se nami, gyaku o yoko), una che **cede** e usa la forza di uke (Yawara).
-3. Dichiara ad alta voce il principio prima di eseguire: la commissione vuole capire *perché* la difesa è quella.
+1. Scelgo un attacco (la fonte usa *uchi-mata*, *tai-otoshi*, *morote-seoi-nage*, *o-soto-gari*).
+2. Preparo una risposta per ciascun principio: una che **ferma** (Go), una che **evita** (Chōwa, indicando se nami, gyaku o yoko), una che **cede** e usa la forza di uke (Yawara).
+3. Dichiaro ad alta voce il principio prima di eseguire: la commissione vuole capire *perché* la difesa è quella.
 
-*Le risposte concrete vanno messe a punto sul tatami con il maestro: il manuale e le fonti non ne forniscono una sequenza per ogni attacco.*
+*Le risposte concrete le metto a punto sul tatami con il mio maestro: il manuale e le fonti non danno una sequenza per ogni attacco.*
 
-**Errori tipici da evitare.** Scambiare *Go* con una «difesa forte» sempre valida (è quella che costa di più); confondere *Chōwa* con una semplice fuga (c'è un'azione di corpo mirata); anticipare troppo il *Yawara* (il tempo giusto è prima che l'attacco sia efficace, non dopo).
+**Errori che voglio evitare.** Scambiare *Go* con una «difesa forte» sempre valida (è quella che costa di più); confondere *Chōwa* con una semplice fuga (c'è un'azione di corpo mirata); anticipare troppo il *Yawara* (il tempo giusto è prima che l'attacco sia efficace, non dopo).
 
 ## 4. Rapporto con kaeshi e renraku
 
