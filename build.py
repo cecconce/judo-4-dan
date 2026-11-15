@@ -99,12 +99,13 @@ def build():
         old.unlink()
 
     def nav_html(base, current=None):
-        items = [f'    <li><a{" class=\"cur\"" if current == "quiz" else ""} href="{base}quiz.html">🧩 Quiz a risposta multipla</a></li>']
+        items = []
         for c in chapters:
             cls = ' class="cur"' if c["slug"] == current else ""
             items.append(
                 f'    <li><a{cls} href="{base}c/{c["slug"]}.html">{html.escape(c["title"])}</a></li>'
             )
+        items.append(f'    <li><a{" class=\"cur\"" if current == "quiz" else ""} href="{base}quiz.html">🧩 Quiz a risposta multipla</a></li>')
         return "\n".join(items)
 
     search = []
@@ -169,13 +170,12 @@ def build():
     # home
     cards = "\n".join(
         f'<li><a href="c/{c["slug"]}.html"><b>{html.escape(c["title"])}</b></a></li>' for c in chapters
-    )
+    ) + '\n<li><a href="quiz.html"><b>🧩 Quiz a risposta multipla</b></a></li>'
     home = f"""<section class="hero">
 <h1>柔道 · Manuale di studio per il 4° Dan</h1>
 <p>Storia, filosofia e tecniche del judo, Gokyō con video Kōdōkan, Katame-waza, Renraku, Gaeshi e Difese (Go, Chōwa, Yawara), Sen, Kime no Kata, Goshin-jutsu, organizzazione FIJLKAM, memorizzazione dei nomi, video.
 Lo uso per studiare da telefono, anche offline.</p>
 </section>
-<a class="qlink" href="quiz.html">🧩 Fai il quiz: 4 risposte, scegli gli argomenti e fino a 30 domande</a>
 <section id="cerca">
 <input id="q" type="search" placeholder="Cerca (es. uchi-mata, kuzushi, 1895…)" autocomplete="off" aria-label="Cerca nel manuale">
 <ul id="results" class="results"></ul>
