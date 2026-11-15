@@ -1,5 +1,5 @@
 (function(){
-var MAXQ=30,root=document.getElementById('quiz'),base=document.body.dataset.base||'';
+var MAXQ=50,root=document.getElementById('quiz'),base=document.body.dataset.base||'';
 var data=null,sel={},pool=[],cur=0,score=0,wrong=[],answered=false,session=[];
 function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
@@ -12,7 +12,7 @@ function setup(keepN){
   h+='<label class="qt'+(sel[t.id]?' on':'')+'"><input type="checkbox" data-id="'+t.id+'"'+(sel[t.id]?' checked':'')+'><span>'+esc(t.title)+'</span><small>'+t.n+'</small></label>';
  });
  h+='</div><h2>Numero di domande</h2><div class="qnum"><div class="qchips">';
- [5,10,15,20,25,30].forEach(function(n){h+='<button type="button" class="chip" data-n="'+n+'">'+n+'</button>'});
+ [10,20,30,40,50].forEach(function(n){h+='<button type="button" class="chip" data-n="'+n+'">'+n+'</button>'});
  h+='</div><label>oppure: <input id="q-n" type="number" min="1" max="'+MAXQ+'" value="'+n0+'" inputmode="numeric"></label></div>';
  h+='<p id="q-info" class="qhint"></p><button type="button" id="q-start" class="qgo">Inizia il quiz</button>';
  root.innerHTML=h;
