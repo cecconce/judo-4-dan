@@ -6,6 +6,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.1 Ko-soto-gake (小外掛)
 
+▶ **Video Kōdōkan × IJF Academy:** [Ko-soto-gake](https://www.youtube.com/watch?v=8b6kY4s4zH4) *(canale ufficiale KODOKAN)*
+
 ![Ko-soto-gake: l’aggancio esterno sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId41.jpg)
 
 *Ko-soto-gake: l’aggancio esterno sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -30,6 +32,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.2 Tsuri-goshi (釣腰)
 
+▶ **Video Kōdōkan × IJF Academy:** [Tsuri-goshi](https://www.youtube.com/watch?v=51Htlp7xEvE) *(canale ufficiale KODOKAN)*
+
 **Nome e origine.** *Tsuri* (釣) significa «sollevare, tirare come alla lenza» e *goshi/koshi* (腰) è l'anca: «anca sollevante». È una *koshi-waza*. **Presente fin dal primo Gokyo del 1895** (era nel *dai-yonkyō*), ricollocata nel *dai-sankyō* nel 1920. Descritta da Mifune e nell'*Illustrated Kodokan Judo* (1955, tecnica 18).
 
 **Il principio.** La meccanica d'anca è quella del *tsuri-komi-goshi*, ma il *kuzushi* è prodotto dalla *tsuri-te* che **solleva verticalmente** afferrando il bavero alto, la manica opposta o direttamente la cintura-schiena, «pescando» uke in alto. Le anche di tori scendono sotto il suo baricentro (fulcro); la distensione delle gambe e la rotazione del busto proiettano in avanti.
@@ -47,6 +51,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 **Errori comuni.** (1) Anche non sotto il baricentro: si solleva «di schiena». (2) *Tsuri-te* che tira in avanti invece che in alto: uke si piega in vita e si difende. (3) Ginocchia bloccate nel *kake*: si perde la molla di sollevamento.
 
 ## 7.3 Yoko-otoshi (横落)
+
+▶ **Video Kōdōkan × IJF Academy:** [Yoko-otoshi](https://www.youtube.com/watch?v=MnNG67pF_a0) *(canale ufficiale KODOKAN)*
 
 ![Yoko-otoshi: la caduta laterale di sacrificio (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId42.jpg)
 
@@ -71,6 +77,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.4 Ashi-guruma (足車)
 
+▶ **Video Kōdōkan × IJF Academy:** [Ashi-guruma](https://www.youtube.com/watch?v=ROeayhvom9U) *(canale ufficiale KODOKAN)*
+
 ![Ashi-guruma: la ruota con la gamba (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId43.jpg)
 
 *Ashi-guruma: la ruota con la gamba (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -93,6 +101,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 **Errori comuni.** (1) Gamba d'ostacolo piegata: niente fulcro rigido. (2) *Kuzushi* frontale invece che all'angolo destro: uke recupera col passo. (3) Rotazione del busto incompleta: la «ruota» si ferma a metà e uke contrattacca.
 
 ## 7.5 Hane-goshi (跳腰)
+
+▶ **Video Kōdōkan × IJF Academy:** [Hane-goshi](https://www.youtube.com/watch?v=M9_7De6A1kk) *(canale ufficiale KODOKAN)*
 
 ![Hane-goshi: l’anca che scatta (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId44.jpg)
 
@@ -117,6 +127,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.6 Harai-tsurikomi-ashi (払釣込足)
 
+▶ **Video Kōdōkan × IJF Academy:** [Harai-tsurikomi-ashi](https://www.youtube.com/watch?v=gGPXvWL8VbE) *(canale ufficiale KODOKAN)*
+
 **Nome e origine.** Il nome combina *harai* (払, spazzare), *tsuri-komi* (釣込, solleva-attirando) e *ashi* (足, piede): «spazzata del piede con sollevamento e trazione». È una *ashi-waza*. **Presente fin dal primo Gokyo del 1895** (*dai-gokyō*), spostata nel *dai-sankyō* nel 1920. Tecnica 22 dell'*Illustrated Kodokan Judo* (1955).
 
 **Il principio.** Fonde la spazzata del *de-ashi-harai* col sollevamento «a strappo» del *tsuri-komi*: la *tsuri-te* **solleva energicamente in alto** rendendo uke «galleggiante» sulle punte, mentre la pianta del piede di tori gli spazza il piede nel breve istante in cui è scarico. Il *kuzushi* punta all'angolo posteriore della gamba spazzata; il vettore è una rotazione rapida indietro-laterale.
@@ -134,6 +146,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 **Errori comuni.** (1) Spazzare il piede caricato: nessun effetto. (2) *Tsuri-te* debole: manca il «galleggiamento» e uke recupera col passo. (3) Spazzata troppo alta, sopra il malleolo: inefficace e pericolosa.
 
 ## 7.7 Tomoe-nage (巴投)
+
+▶ **Video Kōdōkan × IJF Academy:** [Tomoe-nage](https://www.youtube.com/watch?v=880WbHvHv6A) *(canale ufficiale KODOKAN)*
 
 ![Tomoe-nage in una tavola d’epoca giapponese (pubblico dominio, Iguchi Matsunosuke)](../assets/img/m-rId45.jpg)
 
@@ -157,6 +171,8 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 **Errori comuni.** (1) Cadere senza *kuzushi*: uke crolla addosso a tori in *ne-waza* favorevole. (2) Piede troppo alto sul torace, o gamba già distesa: la leva non lancia e uke rotola corto. (3) Braccia che smettono di tirare durante la caduta: uke pianta le mani e neutralizza.
 
 ## 7.8 Kata-guruma (肩車)
+
+▶ **Video Kōdōkan × IJF Academy:** [Kata-guruma](https://www.youtube.com/watch?v=cnHRhSy8yi4) *(canale ufficiale KODOKAN)*
 
 ![Kata-guruma: la ruota sulle spalle, oggi non eseguibile in gara IJF (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId46.jpg)
 

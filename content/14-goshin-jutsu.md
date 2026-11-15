@@ -9,6 +9,8 @@
 **Avvertenza.** Questo manuale è uno strumento di studio e memorizzazione, non un sostituto della pratica sul tatami con un insegnante qualificato. Le tecniche del Kōdōkan Goshin-jutsu prevedono il maneggio di repliche di armi e l'applicazione di leve articolari e strangolamenti: eseguirle senza supervisione può causare infortuni gravi. Tutte le sequenze descritte seguono il *Kodokan Kata Textbook* ufficiale; eventuali differenze con le tradizioni di singole scuole o federazioni sono legittime e vanno discusse con il proprio maestro.
 
 
+**Percorsi rapidi:** [memorizzazione dei nomi delle 21 tecniche](17-memorizzazione.html) · [video ufficiali e di gara](#fonti-video-e-fotografiche) · [tutti i video](20-video.html)
+
 ## 1. Storia e significato del Kōdōkan Goshin-jutsu
 
 Chi pratica judo da decenni conosce la sensazione: salire sul tatami per eseguire il Kōdōkan Goshin-jutsu (講道館護身術) significa entrare in un territorio del tutto diverso dal randori. Qui il colpo alla gola non è un fallo da *hansoku-make* ma una tecnica codificata; qui l'avversario impugna un bastone o punta una pistola alla fronte. Questo kata — formalmente, come vedremo, un *jutsu* e non un kata — è la risposta che il Kōdōkan diede, nel cuore del Novecento, a una domanda semplice e scomoda: che cosa resta del judo quando l'aggressione è reale, urbana e moderna?
@@ -862,11 +864,37 @@ Il kata parla anche attraverso la voce, lo sguardo e l'inclinazione del capo. Qu
 
 ## Fonti video e fotografiche
 
-*Raccolta completa dei link: capitolo «Video e risorse online».*
+*Collegamenti verificati a novembre 2026; le esecuzioni di gara sono caricate da terzi. Raccolta completa: capitolo «Video e risorse online». Per memorizzare nomi e ordine delle 21 tecniche: [capitolo 17, Memorizzazione](17-memorizzazione.html).*
 
-- Video dimostrativi ufficiali Kōdōkan (canale KodokanJudoInstitute): esecuzioni complete del kata con Oda Jōichi e altri insegnanti.
-- Video degli *All Japan Judo Kata Championships* e dei *World Kata Championships* IJF (es. Olbia 2024, Parigi 2025): riferimenti per l'esecuzione di alto livello.
-- Fotografie dell'**Edmonton International Judo Championship** (2024 e 2025, David Moulds, Pubblico Dominio) e degli **All Japan Kata Championships** (Sanshiro5304, CC BY-SA 4.0 / CC0; Gotcha2, CC BY-SA 3.0), pubblicate su Wikimedia Commons e riprodotte in questo manuale nel rispetto delle rispettive licenze.
+### Il riferimento ufficiale
+
+| Video | Note |
+| --- | --- |
+| [Kōdōkan — Kodokan Goshin-jutsu (English ver.)](https://www.youtube.com/watch?v=ZbjWCm53Osg) | la forma ufficiale, canale KODOKAN (circa 37 minuti) |
+| [Kōdōkan — Kagami Biraki 2025, Goshin-jutsu](https://www.youtube.com/watch?v=qevL9YVZsbo) | esecuzione al Kōdōkan (circa 8 minuti) |
+| [All Japan Judo Kata Championships 2026](https://www.youtube.com/watch?v=DNDC3X8usnQ) | campionato nazionale giapponese, registrazione completa (circa 1 h 40) |
+
+### Gare mondiali ed europee recenti
+
+| Video | Note |
+| --- | --- |
+| [Campionati mondiali di kata, Parigi 2025](https://www.youtube.com/watch?v=pBLGlf6Nap0) | coppia belga, video del competitore. Al primo posto Ikeda – Sakamaki (JPN) |
+| [Campionati europei di kata, Sarajevo 2026](https://www.youtube.com/watch?v=BPQ2yJNBghM) | stessa coppia belga, video del competitore |
+| [IJF Kata World Series, Louvain-la-Neuve 2026](https://www.youtube.com/watch?v=4BRiIDZgl8M) | stessa coppia, finale |
+| [Mondiali di Cracovia 2022, Giappone](https://www.youtube.com/watch?v=ubw35T1OZj0) | esecuzione giapponese di riferimento |
+
+*Non ho trovato un video pubblico della coppia vincitrice dei Mondiali 2025; il collegamento al primo posto giapponese è quindi quello del 2022.*
+
+### Video storici
+
+| Video | Note |
+| --- | --- |
+| [IJF World Kata Championships 2011, Francoforte, finale Giappone](https://www.youtube.com/watch?v=DyJ7nAFf7fk) | finale mondiale con la coppia giapponese |
+| [Goshin-jutsu del Kōdōkan, DVD ufficiale vs campione del mondo](https://www.youtube.com/watch?v=E5KM2KbGE1E) | confronto fra la dimostrazione ufficiale e l'esecuzione di un campione |
+
+### Foto
+
+- Fotografie dell'**Edmonton International Judo Championship** (2024 e 2025, David Moulds, pubblico dominio) e degli **All Japan Kata Championships** (Sanshiro5304, CC BY-SA 4.0 / CC0; Gotcha2, CC BY-SA 3.0), pubblicate su Wikimedia Commons e riprodotte in questo manuale nel rispetto delle rispettive licenze.
 
 ### Requisiti per gli esami di grado
 

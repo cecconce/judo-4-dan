@@ -8,6 +8,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.1 De-ashi-barai (出足払)
 
+▶ **Video Kōdōkan × IJF Academy:** [De-ashi-barai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) *(canale ufficiale KODOKAN)*
+
 ![De-ashi-barai: la falciata sul piede avanzato (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId25.jpg)
 
 *De-ashi-barai: la falciata sul piede avanzato (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -31,6 +33,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 **Errori comuni.** (1) Colpire con la gamba rigida anziché con la pianta in arco («calcio» invece di spazzata); (2) spazzare quando il peso è già sul piede bersaglio; (3) trascurare l'azione delle mani, che da sole possono proiettare se il timing è corretto.
 
 ## 5.2 Hiza-guruma (膝車)
+
+▶ **Video Kōdōkan × IJF Academy:** [Hiza-guruma](https://www.youtube.com/watch?v=JPJx9-oAVns) *(canale ufficiale KODOKAN)*
 
 ![Hiza-guruma: la ruota sul ginocchio (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId26.jpg)
 
@@ -56,6 +60,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.3 Sasae-tsurikomi-ashi (支釣込足)
 
+▶ **Video Kōdōkan × IJF Academy:** [Sasae-tsurikomi-ashi](https://www.youtube.com/watch?v=699i--pvYmE) *(canale ufficiale KODOKAN)*
+
 ![Sasae-tsurikomi-ashi: il blocco del piede in avanzata (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId27.jpg)
 
 *Sasae-tsurikomi-ashi: il blocco del piede in avanzata (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -80,6 +86,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.4 Uki-goshi (浮腰)
 
+▶ **Video Kōdōkan × IJF Academy:** [Uki-goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ) *(canale ufficiale KODOKAN)*
+
 **Nome e origine.** *Uki* 浮 (fluttuante, galleggiante) + *goshi* 腰 (anca, vita): «anca fluttuante». Famiglia: *koshi-waza* (腰技, tecniche d'anca). Tra le tecniche storiche più documentate: discende dallo *yoroi kumi-uchi*, la lotta in armatura dei guerrieri medievali, ed era il **tokui-waza di Kanō Jigorō**, che la eseguiva a sinistra. È la prima koshi-waza del Nage-no-kata. Proprio dalla difesa di Shiro Saigō contro questa tecnica Kanō elaborò lo harai-goshi, come vedremo nel Dai-nikyō.
 
 **Il principio.** Kuzushi verso l'angolo anteriore destro. Tsukuri: tori gira di schiena inserendo l'anca destra contro l'addome di uke e avvolgendo il braccio destro attorno alla sua vita. Kake: **senza alzare l'anca né flettersi in avanti** — differenza chiave con o-goshi — tori ruota busto e anche a sinistra «facendo galleggiare» uke sull'anca e rovesciandolo. Il fulcro è il fianco destro di tori; il vettore è rotatorio in avanti. Meccanicamente è una proiezione di **torsione**, non di leva in altezza.
@@ -98,6 +106,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 **Errori comuni.** (1) Abbassare troppo l'anca, trasformandola in un o-goshi scorretto; (2) cingere la vita superficialmente (il braccio deve avvolgere il più possibile); (3) tirare con le sole braccia senza rotazione del busto.
 
 ## 5.5 O-soto-gari (大外刈)
+
+▶ **Video Kōdōkan × IJF Academy:** [O-soto-gari](https://www.youtube.com/watch?v=c-A_nP7mKAc) *(canale ufficiale KODOKAN)*
 
 ![O-soto-gari in allenamento (foto: Cpl. Jeff Sisto, USMC, pubblico dominio)](../assets/img/m-rId28.jpg)
 
@@ -123,6 +133,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.6 O-goshi (大腰)
 
+▶ **Video Kōdōkan × IJF Academy:** [O-goshi](https://www.youtube.com/watch?v=yhu1mfy2vJ4) *(canale ufficiale KODOKAN)*
+
 ![O-goshi: la grande proiezione d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId29.jpg)
 
 *O-goshi: la grande proiezione d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -147,6 +159,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.7 O-uchi-gari (大内刈)
 
+▶ **Video Kōdōkan × IJF Academy:** [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) *(canale ufficiale KODOKAN)*
+
 ![O-uchi-gari: la mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId30.jpg)
 
 *O-uchi-gari: la mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -170,6 +184,8 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 **Errori comuni.** (1) Falciare una gamba non caricata: nessun effetto; (2) usare solo la gamba senza la spinta del busto nella direzione opposta; (3) entrare troppo alti, senza abbassare il proprio baricentro sotto quello di uke.
 
 ## 5.8 Seoi-nage (背負投) e le varianti ippon e morote
+
+▶ **Video Kōdōkan × IJF Academy:** [Seoi-nage](https://www.youtube.com/watch?v=zIq0xI0ogxk) · [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) *(canale ufficiale KODOKAN)*
 
 ![Esecuzione della tecnica (immagine di pubblico dominio / Wikimedia Commons)](../assets/img/m-rId31.jpg)
 

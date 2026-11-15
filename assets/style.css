@@ -46,3 +46,4 @@ main img{display:block;max-width:100%;height:auto;margin:14px auto 4px;border-ra
 main img+em,main p>img+em{display:block;text-align:center;color:var(--mut);font-size:13px;margin-bottom:14px}
 details{background:var(--code);border-radius:10px;padding:8px 14px;margin:12px 0}
 summary{cursor:pointer;font-weight:bold}
+main a>img{max-width:340px;cursor:pointer}

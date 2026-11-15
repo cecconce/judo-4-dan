@@ -4,6 +4,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.1 Sumi-gaeshi (隅返)
 
+▶ **Video Kōdōkan × IJF Academy:** [Sumi-gaeshi](https://www.youtube.com/watch?v=5VhduA5xkbA) *(canale ufficiale KODOKAN)*
+
 ![Sumi-gaeshi: il rovesciamento d’angolo (illustrazione: Jdcollins13, CC BY-SA 3.0)](../assets/img/m-rId47.jpg)
 
 *Sumi-gaeshi: il rovesciamento d’angolo (illustrazione: Jdcollins13, CC BY-SA 3.0)*
@@ -26,6 +28,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Cadere senza aver attratto *uke* in avanti: si finisce schiacciati sotto il suo peso. (2) Proiettare dritto oltre la testa: quella è *tomoe-nage*; *sumi-gaeshi* esce all'angolo. (3) Trazione delle braccia insufficiente durante la caduta: *uke* appoggia le mani al tatami e si libera.
 
 ## 8.2 Tani-otoshi (谷落)
+
+▶ **Video Kōdōkan × IJF Academy:** [Tani-otoshi](https://www.youtube.com/watch?v=3b9Me3Fohpk) *(canale ufficiale KODOKAN)*
 
 ![Tani-otoshi: la caduta nella valle (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId48.jpg)
 
@@ -50,6 +54,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.3 Hane-makikomi (跳巻込)
 
+▶ **Video Kōdōkan × IJF Academy:** [Hane-makikomi](https://www.youtube.com/watch?v=6CRBGLGz9j8) *(canale ufficiale KODOKAN)*
+
 **Nome e origine.** *Hane* (跳) è la «molla», il «balzo»; *makikomi* (巻込) significa «avvolgere trascinando dentro»: «avvolgimento a molla». *Yoko-sutemi-waza*. **Non** presente nel 1895: fu **aggiunta con la revisione del 1920**. È, in sostanza, la «versione *sutemi*» di *hane-goshi*: anziché completare la proiezione in piedi, *tori* si avvolge e rotola mantenendo la pendolare della gamba.
 
 **Il principio.** Unisce la **molla della gamba** di *hane-goshi* all'**avvolgimento** del busto con sacrificio laterale. La gamba destra, flessa, solleva l'interno coscia di *uke* (fulcro e leva) mentre il corpo di *tori*, stretto all'avversario, ruota verso il suolo trascinandolo. *Kuzushi* in avanti (*mae*); vettore: rotazione in avanti con caduta sul fianco.
@@ -67,6 +73,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Rilasciare la gamba a molla prima della caduta: si perde la leva e *uke* si accuccia. (2) Cadere lateralmente senza avvolgimento: *uke* si sgancia e resta in piedi. (3) *Kuzushi* debole: *tori* finisce sotto l'avversario.
 
 ## 8.4 Sukui-nage (掬投)
+
+▶ **Video Kōdōkan × IJF Academy:** [Sukui-nage](https://www.youtube.com/watch?v=vU6aJ2kFxoI) *(canale ufficiale KODOKAN)*
 
 ![Sukui-nage in una tavola d’epoca giapponese (pubblico dominio)](../assets/img/m-rId49.jpg)
 
@@ -90,6 +98,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Sollevare con la schiena piegata: rischio lombare e leva inefficace — il sollevamento è delle gambe. (2) Raccogliere senza *kuzushi* all'indietro: *uke* resta piantato. (3) Ingresso telegrafato: *uke* schiva lateralmente e risponde.
 
 ## 8.5 Utsuri-goshi (移腰)
+
+▶ **Video Kōdōkan × IJF Academy:** [Utsuri-goshi](https://www.youtube.com/watch?v=4pQd_bEnlf0) *(canale ufficiale KODOKAN)*
 
 ![Utsuri-goshi: il cambio d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId50.jpg)
 
@@ -115,6 +125,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.6 O-guruma (大車)
 
+▶ **Video Kōdōkan × IJF Academy:** [O-guruma](https://www.youtube.com/watch?v=SnZciTAY9vc) *(canale ufficiale KODOKAN)*
+
 ![O-guruma: la grande ruota (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId51.jpg)
 
 *O-guruma: la grande ruota (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -138,6 +150,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.7 Soto-makikomi (外巻込)
 
+▶ **Video Kōdōkan × IJF Academy:** [Soto-makikomi](https://www.youtube.com/watch?v=bWG9O1BVKtQ) *(canale ufficiale KODOKAN)*
+
 ![Soto-makikomi in allenamento (foto: H. Zuehl, CC BY 2.5)](../assets/img/m-rId52.jpg)
 
 *Soto-makikomi in allenamento (foto: H. Zuehl, CC BY 2.5)*
@@ -160,6 +174,8 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Sacrificarsi prima del *kuzushi*: *uke* rotola via o contrattacca. (2) Avvolgimento lento o interrotto: si spezza il momento rotatorio. (3) Cadere con tutto il peso sul braccio avvolto di *uke*: rischio traumatico alla spalla del partner — in didattica il controllo dell'atterraggio è obbligatorio.
 
 ## 8.8 Uki-otoshi (浮落)
+
+▶ **Video Kōdōkan × IJF Academy:** [Uki-otoshi](https://www.youtube.com/watch?v=6H5tmncOY4Q) *(canale ufficiale KODOKAN)*
 
 ![Uki-otoshi: la caduta fluttuante (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId53.jpg)
 

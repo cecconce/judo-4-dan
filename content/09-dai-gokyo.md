@@ -6,6 +6,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.1 O-soto-guruma (大外車)
 
+▶ **Video Kōdōkan × IJF Academy:** [O-soto-guruma](https://www.youtube.com/watch?v=92KbCm6pQeI) *(canale ufficiale KODOKAN)*
+
 ![O-soto-guruma: la grande ruota esterna (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId54.jpg)
 
 *O-soto-guruma: la grande ruota esterna (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -30,6 +32,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Gamba-fulcro troppo alta o su una sola gamba: diventa o-soto-gari e si perde la «ruota». 2. Kuzushi posteriore insufficiente: uke fa perno o si siede sottraendo il fulcro. 3. Piede d'appoggio troppo vicino o lontano: non si regge la rotazione.
 
 ## 9.2 Uki-waza (浮技)
+
+▶ **Video Kōdōkan × IJF Academy:** [Uki-waza](https://www.youtube.com/watch?v=weVOpJ63gII) *(canale ufficiale KODOKAN)*
 
 ![Uki-waza: la tecnica fluttuante (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId55.jpg)
 
@@ -56,6 +60,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.3 Yoko-wakare (横分)
 
+▶ **Video Kōdōkan × IJF Academy:** [Yoko-wakare](https://www.youtube.com/watch?v=bp1tscHlePI) *(canale ufficiale KODOKAN)*
+
 ![Yoko-wakare: la separazione laterale (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId56.jpg)
 
 *Yoko-wakare: la separazione laterale (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -79,6 +85,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Cadere prima di aver completato lo tsukuri: uke scavalca la barriera con un passo e la tecnica si sgonfia. 2. Gambe non tese come sbarramento: uke crolla addosso a tori. 3. Angolo finale sbagliato: tori deve finire **perpendicolare** a uke, non parallelo.
 
 ## 9.4 Yoko-guruma (横車)
+
+▶ **Video Kōdōkan × IJF Academy:** [Yoko-guruma](https://www.youtube.com/watch?v=MehP6I5cY2c) *(canale ufficiale KODOKAN)*
 
 ![Yoko-guruma: la ruota laterale (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId57.jpg)
 
@@ -105,6 +113,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.5 Ushiro-goshi (後腰)
 
+▶ **Video Kōdōkan × IJF Academy:** [Ushiro-goshi](https://www.youtube.com/watch?v=ORIYstuxYT8) *(canale ufficiale KODOKAN)*
+
 ![Ushiro-goshi: l’anca posteriore, difesa e controtiro contro le koshi-waza (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId58.jpg)
 
 *Ushiro-goshi: l’anca posteriore, difesa e controtiro contro le koshi-waza (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -129,6 +139,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Non abbassare il bacino **sotto** quello di uke: il sollevamento diventa sforzo di schiena e fallisce. 2. Presa di vita debole: uke scivola e riprende la sua proiezione. 3. Abbattere uke **senza averlo davvero sollevato**: senza il «galleggiamento» manca il momentum della ricaduta.
 
 ## 9.6 Ura-nage (裏投)
+
+▶ **Video Kōdōkan × IJF Academy:** [Ura-nage](https://www.youtube.com/watch?v=Fgi9b8DJ5sQ) *(canale ufficiale KODOKAN)*
 
 ![Ura-nage: la proiezione di rovescio (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId59.jpg)
 
@@ -155,6 +167,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.7 Sumi-otoshi (隅落)
 
+▶ **Video Kōdōkan × IJF Academy:** [Sumi-otoshi](https://www.youtube.com/watch?v=lLU9wv52ni0) *(canale ufficiale KODOKAN)*
+
 ![Sumi-otoshi: la caduta d’angolo (illustrazione: M. Hultström, CC BY-SA 2.0)](../assets/img/m-rId60.jpg)
 
 *Sumi-otoshi: la caduta d’angolo (illustrazione: M. Hultström, CC BY-SA 2.0)*
@@ -179,6 +193,8 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Tirare **con la forza delle braccia** invece di usare tai-sabaki e direzione. 2. Angolo errato: se lo squilibrio non è **esattamente** nell'angolo posteriore destro, uke fa un passo e si salva. 3. Telegrafare la spinta iniziale: senza la reazione di ritorno non c'è momentum da sfruttare.
 
 ## 9.8 Yoko-gake (横掛)
+
+▶ **Video Kōdōkan × IJF Academy:** [Yoko-gake](https://www.youtube.com/watch?v=tP1Sj1uDfSo) *(canale ufficiale KODOKAN)*
 
 ![Yoko-gake: l’aggancio laterale (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId61.jpg)
 

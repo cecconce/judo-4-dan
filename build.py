@@ -160,7 +160,7 @@ def build():
     )
     home = f"""<section class="hero">
 <h1>柔道 · Manuale di studio per il 4° Dan</h1>
-<p>Storia, filosofia e tecniche del judo, Gokyō completo, Katame-waza, Renraku, Gaeshi e Difese, glossario.
+<p>Storia, filosofia e tecniche del judo, Gokyō con video Kōdōkan, Katame-waza, Renraku, Gaeshi e Difese (Go, Chōwa, Yawara), Sen, Kime no Kata, Goshin-jutsu, organizzazione FIJLKAM, memorizzazione dei nomi, video.
 Pensato per lo studio da telefono, anche offline.</p>
 </section>
 <section id="cerca">

@@ -314,6 +314,8 @@ La commissione giudica ogni tecnica su sei criteri IJF: preparazione, squilibrio
 
 **Video**
 
+*Le esecuzioni di gara sono caricate da terzi e possono differire dalla forma Kōdōkan nei dettagli: lo standard resta il video ufficiale del Kōdōkan. Collegamenti verificati a novembre 2026.*
+
 | Video | Perché |
 | --- | --- |
 | [Kōdōkan — Kime-no-Kata (English ver.)](https://www.youtube.com/watch?v=1-YAOozPQNU) | la forma ufficiale, standard d'esame |
@@ -321,6 +323,12 @@ La commissione giudica ogni tecnica su sei criteri IJF: preparazione, squilibrio
 | [Fransen — Kime-no-kata explanation (playlist)](https://www.youtube.com/playlist?list=PL95N_oqwDHSTvcpRsDUDXB08_V7PdI_ae) | un video per tecnica, per il ripasso mirato |
 | [Sato – Shibazaki, Mondiale Kata 2022](https://www.youtube.com/watch?v=98mYgReq4jk) | esecuzione di riferimento in gara (oro) |
 | [The Budokwai Film (1948)](https://www.youtube.com/watch?v=vwjQqjHedwI) | documento storico, variante non Kōdōkan |
+| [Kōdōkan — Kagami Biraki 2025, Kime-no-Kata](https://www.youtube.com/watch?v=vRALigvtyVM) | esecuzione al Kōdōkan, cerimonia di inizio anno |
+| [Kōdōkan — Kagami Biraki 2026, Kime-no-Kata](https://www.youtube.com/watch?v=o_Xd_kteMzc) | edizione più recente |
+| [Campionati europei di kata, Sarajevo 2026](https://www.youtube.com/watch?v=CTfh6nGhH1k) | esecuzione di gara (canale della coppia Sánchez-Chaparro e Navarrete) |
+| [Campionati europei di kata, Riga 2025](https://www.youtube.com/watch?v=vWC2Qf52OJw) | esecuzione di gara (stessa coppia) |
+| [Campionati mondiali, Las Vegas 2024](https://www.youtube.com/watch?v=wTyLZLZQr1s) | finale mondiale (stessa coppia) |
+| [Fransen Kata — Europei Sarajevo 2024](https://www.youtube.com/watch?v=2qdbPlBQNfg) | esecuzione di gara con riferimento di studio |
 
 **Fonti scritte**
 

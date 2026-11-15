@@ -6,6 +6,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.1 Ko-soto-gari (小外刈)
 
+▶ **Video Kōdōkan × IJF Academy:** [Ko-soto-gari](https://www.youtube.com/watch?v=jeQ541ScLB4) *(canale ufficiale KODOKAN)*
+
 ![Ko-soto-gari: la mietitura esterna sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId33.jpg)
 
 *Ko-soto-gari: la mietitura esterna sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -33,6 +35,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Spingere con le mani senza aver prima caricato uke sul tallone bersaglio.
 
 ## 6.2 Ko-uchi-gari (小内刈)
+
+▶ **Video Kōdōkan × IJF Academy:** [Ko-uchi-gari](https://www.youtube.com/watch?v=3Jb3tZvr9Ng) *(canale ufficiale KODOKAN)*
 
 ![Ko-uchi-gari: la piccola mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId34.jpg)
 
@@ -62,6 +66,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.3 Koshi-guruma (腰車)
 
+▶ **Video Kōdōkan × IJF Academy:** [Koshi-guruma](https://www.youtube.com/watch?v=SU7Id6uVJ44) *(canale ufficiale KODOKAN)*
+
 ![Koshi-guruma: la ruota d’anca con la testa fuori (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId35.jpg)
 
 *Koshi-guruma: la ruota d’anca con la testa fuori (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -89,6 +95,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Tirare il collo con la sola forza delle braccia: rischio di reazione di uke e di sollecitazioni pericolose al rachide; la rotazione deve sempre coinvolgere tutto il corpo.
 
 ## 6.4 Tsurikomi-goshi (釣込腰)
+
+▶ **Video Kōdōkan × IJF Academy:** [Tsurikomi-goshi](https://www.youtube.com/watch?v=McfzA0yRVt4) *(canale ufficiale KODOKAN)*
 
 ![Tsurikomi-goshi: l’anca che solleva e attira (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId36.jpg)
 
@@ -118,6 +126,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.5 Okuri-ashi-barai (送足払)
 
+▶ **Video Kōdōkan × IJF Academy:** [Okuri-ashi-barai](https://www.youtube.com/watch?v=nw1ZdRjrdRI) *(canale ufficiale KODOKAN)*
+
 ![Okuri-ashi-barai: la spazzata laterale dei due piedi (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId37.jpg)
 
 *Okuri-ashi-barai: la spazzata laterale dei due piedi (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -145,6 +155,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Colpire con il collo del piede invece che con la pianta, perdendo superficie di contatto.
 
 ## 6.6 Tai-otoshi (体落)
+
+▶ **Video Kōdōkan × IJF Academy:** [Tai-otoshi](https://www.youtube.com/watch?v=4x6S3Q-Ktv8) *(canale ufficiale KODOKAN)*
 
 ![Tai-otoshi: la caduta del corpo (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId38.jpg)
 
@@ -174,6 +186,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.7 Harai-goshi (払腰)
 
+▶ **Video Kōdōkan × IJF Academy:** [Harai-goshi](https://www.youtube.com/watch?v=qTo8HlAAkOo) *(canale ufficiale KODOKAN)*
+
 ![Harai-goshi: l’anca che spazza (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId39.jpg)
 
 *Harai-goshi: l’anca che spazza (illustrazione: M. Hultström, CC BY-SA 3.0)*
@@ -201,6 +215,8 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Busto eretto nel *kake*: senza flessione in avanti la gamba non può pendolare in alto.
 
 ## 6.8 Uchi-mata (内股)
+
+▶ **Video Kōdōkan × IJF Academy:** [Uchi-mata](https://www.youtube.com/watch?v=iUpSu5J-bgw) *(canale ufficiale KODOKAN)*
 
 ![Uchi-mata in gara (foto: Ari Kyllönen, CC BY-SA 4.0)](../assets/img/m-rId40.jpg)
 
