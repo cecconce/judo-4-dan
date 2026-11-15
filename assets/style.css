@@ -42,3 +42,7 @@ blockquote{margin:1em 0;padding:.1em 1em;border-left:4px solid var(--acc2);backg
 .pager a{flex:1;padding:12px 14px;border:1px solid var(--bd);border-radius:10px;background:var(--card);text-decoration:none;font-size:14px}
 .pager a:last-child{text-align:right}
 .foot{max-width:46rem;margin:32px auto 0;padding:16px 18px calc(24px + env(safe-area-inset-bottom));color:var(--mut);font-size:12.5px;border-top:1px solid var(--bd)}
+main img{display:block;max-width:100%;height:auto;margin:14px auto 4px;border-radius:8px;border:1px solid var(--bd)}
+main img+em,main p>img+em{display:block;text-align:center;color:var(--mut);font-size:13px;margin-bottom:14px}
+details{background:var(--code);border-radius:10px;padding:8px 14px;margin:12px 0}
+summary{cursor:pointer;font-weight:bold}

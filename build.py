@@ -187,6 +187,7 @@ si comporta come un'app e, dopo la prima visita, funziona anche senza rete.</p>
     precache = (
         ["./", "index.html", "search.json", "assets/style.css", "assets/app.js", "manifest.webmanifest", "icon.svg"]
         + [f"c/{c['slug']}.html" for c in chapters]
+        + sorted(f"assets/img/{f.name}" for f in (ROOT / "assets" / "img").glob("*") if f.is_file())
     )
     sw = f"""const CACHE = 'judo4dan-{VERSION}-{len(chapters)}-{sum(len(c['text']) for c in chapters)}';
 const FILES = {json.dumps(precache)};

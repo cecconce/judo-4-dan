@@ -6,6 +6,11 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.1 Ko-soto-gake (小外掛)
 
+![Ko-soto-gake: l’aggancio esterno sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId41.jpg)
+
+*Ko-soto-gake: l’aggancio esterno sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** Il nome si compone di *ko* (小, piccolo), *soto* (外, esterno) e *kake* (掛, agganciare): «piccolo aggancio esterno». È una *ashi-waza*, tra le tecniche in piedi (*tachi-waza*, 立技). Non figurava nel primo Gokyo del 1895: fu **aggiunta con la revisione del 1920**. Hidekazu Nagaoka, decimo dan, è talvolta indicato come suo perfezionatore o ideatore; è celebre come contropiede classico del *tai-otoshi*.
 
 **Il principio.** Il *kuzushi* è diretto all'indietro o all'angolo posteriore, sulla gamba d'appoggio di uke (受) già caricata. Nel *tsukuri* la gamba di tori (取) si avvolge dall'esterno attorno al tallone-polpaccio di uke: a differenza del *ko-soto-gari*, qui il piede non falcia ma «aggancia» e solleva verso l'alto. Nel *kake* le braccia spingono il busto di uke in basso-indietro oltre la base sottratta. Condizione *sine qua non*: il peso di uke deve gravare sul piede agganciato.
@@ -43,6 +48,11 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.3 Yoko-otoshi (横落)
 
+![Yoko-otoshi: la caduta laterale di sacrificio (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId42.jpg)
+
+*Yoko-otoshi: la caduta laterale di sacrificio (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Yoko* (横) significa «fianco» e *otoshi* (落) «far cadere»: «caduta di fianco». È una *yoko-sutemi-waza* (横捨身技), sacrificio sul fianco. **Presente fin dal primo Gokyo del 1895** — figurava addirittura nel *dai-ikkyō*, segno della sua antichità didattica — fu spostata nel *dai-sankyō* nel 1920. Descritta nell'*Illustrated Kodokan Judo* (1955, tecnica 19) e da Mifune.
 
 **Il principio.** Il *kuzushi* è all'angolo anteriore (*mae-sumi-kasumi*). Tori inserisce la propria gamba come barra-fulcro **davanti alle gambe di uke** e si sacrifica cadendo sul fianco, usando il peso del corpo come vettore: uke, con le gambe bloccate, viene rovesciato in avanti-lateralmente oltre l'ostacolo.
@@ -61,6 +71,11 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.4 Ashi-guruma (足車)
 
+![Ashi-guruma: la ruota con la gamba (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId43.jpg)
+
+*Ashi-guruma: la ruota con la gamba (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Ashi* (足) è la gamba-piede e *guruma/kuruma* (車) la ruota: «ruota di gamba». È una *ashi-waza*. **Presente fin dal primo Gokyo del 1895** (*dai-gokyō*), collocata nel *dai-sankyō* nel 1920. Il Kodokan ne evidenzia la parentela concettuale con *hiza-guruma*.
 
 **Il principio.** La gamba destra distesa di tori, appoggiata col dorso della caviglia e del polpaccio sotto la rotula di uke, funziona da **asse**: uke, squilibrato all'angolo anteriore destro e incapace di avanzare il piede destro, ruota attorno a quel fulcro come una ruota. Il vettore rotazionale viene dalle braccia: la *tsuri-te* solleva, la *hiki-te* tira in basso-laterale.
@@ -78,6 +93,11 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 **Errori comuni.** (1) Gamba d'ostacolo piegata: niente fulcro rigido. (2) *Kuzushi* frontale invece che all'angolo destro: uke recupera col passo. (3) Rotazione del busto incompleta: la «ruota» si ferma a metà e uke contrattacca.
 
 ## 7.5 Hane-goshi (跳腰)
+
+![Hane-goshi: l’anca che scatta (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId44.jpg)
+
+*Hane-goshi: l’anca che scatta (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Hane* (跳) è il balzo, la molla; *goshi* (腰) l'anca: «anca a molla». È una *koshi-waza*. **Presente fin dal primo Gokyo del 1895** — già nel *dai-sankyō*, in collocazione analoga all'attuale. Analizzata da Mifune e da Daigo; filmati storici la mostrano eseguita da Mifune stesso.
 
@@ -115,6 +135,11 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 
 ## 7.7 Tomoe-nage (巴投)
 
+![Tomoe-nage in una tavola d’epoca giapponese (pubblico dominio, Iguchi Matsunosuke)](../assets/img/m-rId45.jpg)
+
+*Tomoe-nage in una tavola d’epoca giapponese (pubblico dominio, Iguchi Matsunosuke)*
+
+
 **Nome e origine.** Il *tomoe* (巴) è l'antico motivo giapponese a virgola-vortice; il nome descrive la **forma** del movimento circolare con cui uke viene lanciato oltre la testa di tori. È una *ma-sutemi-waza* (真捨身技), sacrificio sulla schiena. **Presente fin dal primo Gokyo del 1895** (*dai-nikyō*): tra le tecniche di sacrificio più antiche del Kodokan, è la prima *ma-sutemi* del **Nage-no-kata**. Non esiste documentazione su un ideatore né un collegamento attestato a un singolo *ryū*; la tradizione orale che la lega al Tenjin Shinyō-ryū non è confermata. La variante laterale *yoko-tomoe-nage* è attribuita a Takao Kawaguchi, campione olimpico 1972; Kashiwazaki creò la variante a pendolo *furiko-tomoe*.
 
 **Il principio.** *Kuzushi* in avanti; tori cade supino *sotto* il baricentro di uke, pianta la pianta del piede sul suo basso addome o fianco e, distendendo la gamba come una leva mentre le braccia continuano a tirare, lo lancia in un arco oltre la propria testa. Fulcro: il corpo di tori al suolo; leva: la gamba; vettore: arco in avanti-alto che disegna il vortice del *tomoe*.
@@ -132,6 +157,11 @@ Storicamente, delle otto waza sette — *tsuri-goshi*, *yoko-otoshi*, *ashi-guru
 **Errori comuni.** (1) Cadere senza *kuzushi*: uke crolla addosso a tori in *ne-waza* favorevole. (2) Piede troppo alto sul torace, o gamba già distesa: la leva non lancia e uke rotola corto. (3) Braccia che smettono di tirare durante la caduta: uke pianta le mani e neutralizza.
 
 ## 7.8 Kata-guruma (肩車)
+
+![Kata-guruma: la ruota sulle spalle, oggi non eseguibile in gara IJF (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId46.jpg)
+
+*Kata-guruma: la ruota sulle spalle, oggi non eseguibile in gara IJF (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Kata* (肩) è la spalla e *kuruma* (車) la ruota: «ruota di spalle». È una *te-waza*. La genesi è **documentata**: il giovane Kanō, non riuscendo a proiettare il robusto compagno Fukushima Kenkichi, sviluppò una forma primitiva di *kata-guruma* **ispirandosi al sumo**, riuscendo infine a sollevarlo e gettarlo; proiezioni analoghe esistevano nel Yoshin-ryū. La tecnica figurava nel **primo Gokyo del 1895** (*dai-yonkyō*) ed è la terza del **Nage-no-kata**. Regolamento: nel 2010 l'IJF vietò gli attacchi diretti con mani e braccia alle gambe (*hansoku-make*) e nel 2013 estese il divieto a ogni presa alle gambe, anche in seguito o in contro; *kata-guruma*, con la mano tra le cosce, è così divenuta **non eseguibile in gara IJF**, pur restando nel Gokyo, nei kata e nella pratica tecnica.
 

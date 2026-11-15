@@ -8,6 +8,11 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.1 De-ashi-barai (出足払)
 
+![De-ashi-barai: la falciata sul piede avanzato (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId25.jpg)
+
+*De-ashi-barai: la falciata sul piede avanzato (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *De* 出 (che esce, che avanza) + *ashi* 足 (piede) + *barai/harai* 払 (spazzare): «spazzata del piede che avanza». Famiglia: *ashi-waza* (足技, tecniche di gambe e piedi). Presente fin dal primo Gokyo del 1895; dal 1920 è la tecnica d'apertura del gruppo, in sostituzione di hiza-guruma. È considerata la tecnica-base per l'apprendimento del *debana* (momento-opportunità) e del timing, pur essendo tra le più difficili da applicare nel *randori* di alto livello.
 
 **Il principio.** Il kuzushi è laterale e circolare, verso il punto in cui il piede di uke sta per appoggiare o ha appena appoggiato senza ancora caricare il peso. Nel tsukuri tori resta fuori dalla linea d'attacco, ruotando il busto e tirando con entrambe le mani nella direzione della spazzata. Nel kake la pianta del piede di tori, con la punta rivolta all'interno, colpisce tallone/caviglia di uke con un movimento arcuato. Il fulcro non è un punto fisso ma l'istante di «vuoto di carico» del piede avversario; il vettore di caduta è laterale-posteriore. Il segreto meccanico è spazzare il piede mentre è in fase di trasferimento del peso: leggero, «galleggiante».
@@ -27,6 +32,11 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.2 Hiza-guruma (膝車)
 
+![Hiza-guruma: la ruota sul ginocchio (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId26.jpg)
+
+*Hiza-guruma: la ruota sul ginocchio (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Hiza* 膝 (ginocchio) + *guruma* 車 (ruota): «ruota del ginocchio». Famiglia: ashi-waza. Era la **prima tecnica del Gokyo originale del 1895**; nel 1920 cedette l'apertura a de-ashi-barai. È la prima ashi-waza del *Nage-no-kata* e appartiene alle proiezioni «di rotazione», meccanicamente affine a sasae-tsurikomi-ashi.
 
 **Il principio.** Kuzushi verso l'angolo anteriore destro di uke, in diagonale e rotatorio. Tsukuri: tori arretra il piede sinistro e ruota il busto a sinistra, portando uke a sbilanciarsi in avanti-lateralmente. Kake: la pianta del piede destro di tori si applica contro l'esterno del ginocchio destro di uke, appena sotto la rotula, fungendo da perno. Il fulcro è il ginocchio bloccato; il vettore è una rotazione di uke attorno a quel perno, con caduta in avanti-laterale. Mani e piede agiscono come le due estremità di una ruota che gira di 180°.
@@ -45,6 +55,11 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 **Errori comuni.** (1) Premere il ginocchio quando è flesso; (2) bloccare la rotula frontalmente invece che lateralmente, perdendo la rotazione; (3) dimenticare la trazione rotatoria delle mani, riducendo la tecnica a uno sgambetto.
 
 ## 5.3 Sasae-tsurikomi-ashi (支釣込足)
+
+![Sasae-tsurikomi-ashi: il blocco del piede in avanzata (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId27.jpg)
+
+*Sasae-tsurikomi-ashi: il blocco del piede in avanzata (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Sasae* 支 (sostenere, bloccare) + *tsuri* 釣 (sollevare) + *komi* 込 (tirare dentro) + *ashi* 足: «blocco del piede sollevando-tirando». Famiglia: ashi-waza. Presente fin dal primo Gokyo del 1895; è la prima tecnica del gruppo in cui il piede di tori tocca realmente uke e fa parte del Nage-no-kata. Fu tecnica prediletta di **Anton Geesink** (oro olimpico 1964) e di **Wilhelm Ruska** (doppio oro 1972).
 
@@ -84,6 +99,11 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.5 O-soto-gari (大外刈)
 
+![O-soto-gari in allenamento (foto: Cpl. Jeff Sisto, USMC, pubblico dominio)](../assets/img/m-rId28.jpg)
+
+*O-soto-gari in allenamento (foto: Cpl. Jeff Sisto, USMC, pubblico dominio)*
+
+
 **Nome e origine.** *O* 大 (grande) + *soto* 外 (esterno) + *gari/kari* 刈 (falciare, mietere): «grande falciata esterna». Famiglia: ashi-waza. Presente fin dal primo Gokyo del 1895, con nomi antichi documentati: *Gyaku-gama*, *Kaeri-nage*, *Ke-kaeshi*. Tra i primi insegnamenti del Kōdōkan storico e tuttora tra le prime tecniche dei corsi base. Utilizzatori celebri: **Masahiko Kimura**, la cui o-soto-gari è studiata per la trazione verso il fianco e il bloccaggio totale della gamba, **Yasuhiro Yamashita** (in combinazione con o-uchi-gari), Anton Geesink, Wilhelm Ruska, Hitoshi Saito, Ingrid Berghmans, David Douillet. È la proiezione tipica dei judoka alti e pesanti.
 
 **Il principio.** Kuzushi verso l'angolo **posteriore destro** di uke: tutto il peso deve caricare il tallone destro. Tsukuri: tori porta il piede sinistro accanto al piede destro di uke, allineando le spalle, petto contro petto. Kake: la gamba destra falciata all'indietro colpisce la parte posteriore della coscia/ginocchio destro di uke mentre il busto spinge in avanti e in basso: azione a **forbice di coppia** (busto avanti, gamba indietro). Il fulcro è la gamba falciante; il vettore è posteriore con rotazione.
@@ -102,6 +122,11 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 **Errori comuni.** (1) Tirare uke lateralmente invece di caricarlo sul tallone; (2) falciare col piede invece che con tutta la gamba tesa; (3) restare distanti col busto, senza pressione antero-posteriore.
 
 ## 5.6 O-goshi (大腰)
+
+![O-goshi: la grande proiezione d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId29.jpg)
+
+*O-goshi: la grande proiezione d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *O* 大 (grande) + *goshi* 腰: «grande anca». Famiglia: koshi-waza. Presente fin dal primo Gokyo del 1895; insieme a o-soto-gari è tradizionalmente tra le prime proiezioni insegnate nel Kōdōkan e nei corsi base di tutto il mondo, per la semplicità del concetto di «caricare l'avversario sull'anca».
 
@@ -122,6 +147,11 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 
 ## 5.7 O-uchi-gari (大内刈)
 
+![O-uchi-gari: la mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId30.jpg)
+
+*O-uchi-gari: la mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *O* 大 + *uchi* 内 (interno) + *gari* 刈: «grande falciata interna». Famiglia: ashi-waza. Presente fin dal primo Gokyo del 1895. La letteratura tecnica la descrive come una «proiezione leggera», non un colpo di forza: ideale per avviare l'attacco e aprire la difesa di avversari chiusi. Utilizzatori celebri: **Yasuhiro Yamashita**, nella famosa combinazione con o-soto-gari, **Peter Seisenbacher** (doppio oro olimpico 1984-1988), Katsuhiko Kashiwazaki, Paul Maruyama. Risultò tra le tecniche più vincenti ai Mondiali 1999.
 
 **Il principio.** Kuzushi verso l'angolo **posteriore sinistro** di uke (per l'attacco destro): si abbassa il proprio baricentro e si porta uke a caricare la gamba sinistra. Tsukuri: la gamba destra di tori si inserisce tra le gambe di uke. Kake: la gamba destra falcia circolarmente verso l'esterno-indietro l'interno della coscia/polpaccio sinistro di uke mentre le mani spingono-tirano nella direzione opposta: coppia di forze. Il fulcro è la gamba interna falciante; il vettore è posteriore con forte componente rotatoria verso il basso. La caratteristica è l'azione «a cucchiaio» della gamba, che **solleva e rovescia** la gamba caricata.
@@ -140,6 +170,15 @@ Ogni tecnica va analizzata nelle tre fasi canoniche: *kuzushi* (崩し, rottura 
 **Errori comuni.** (1) Falciare una gamba non caricata: nessun effetto; (2) usare solo la gamba senza la spinta del busto nella direzione opposta; (3) entrare troppo alti, senza abbassare il proprio baricentro sotto quello di uke.
 
 ## 5.8 Seoi-nage (背負投) e le varianti ippon e morote
+
+![Esecuzione della tecnica (immagine di pubblico dominio / Wikimedia Commons)](../assets/img/m-rId31.jpg)
+
+*Esecuzione della tecnica (immagine di pubblico dominio / Wikimedia Commons)*
+
+![Esecuzione della tecnica (immagine di pubblico dominio / Wikimedia Commons)](../assets/img/m-rId32.jpg)
+
+*Esecuzione della tecnica (immagine di pubblico dominio / Wikimedia Commons)*
+
 
 **Nome e origine.** *Seoi* 背負 (portare sulla schiena) + *nage* 投 (proiezione). Famiglia: *te-waza* (手技, tecniche di braccia). Presente fin dal primo Gokyo del 1895; è la prima te-waza del Nage-no-kata. Varianti ufficiali Kōdōkan: **morote-seoi-nage** (両手背負投, «a due mani», forma base del Gokyo) e **ippon-seoi-nage** (一本背負投, «con un braccio», tecnica autonoma della lista delle 68); la presa al bavero sopra la spalla dà l'*eri-seoi-nage*. Specialisti celebri: **Isao Okano** (oro olimpico 1964), **Toshihiko Koga** (oro 1992, ippon-seoi «in piedi» con inserimento della gamba e presa all'ascella), **Hifumi Abe**, Kim Jae-bum e la scuola coreana. È tra le proiezioni più decisive delle categorie leggere; la *drop-seoi-nage* domina il livello olimpico moderno e i judoka di bassa statura risultano avvantaggiati nella velocità esecutiva.
 

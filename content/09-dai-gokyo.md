@@ -6,6 +6,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.1 O-soto-guruma (大外車)
 
+![O-soto-guruma: la grande ruota esterna (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId54.jpg)
+
+*O-soto-guruma: la grande ruota esterna (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** 大 (*ō*, grande) + 外 (*soto*, esterno) + 車 (*kuruma/guruma*, ruota): «grande ruota esterna». È *ashi-waza* pur essendo tori in piedi: la gamba di attacco funge da fulcro. Nel 5° gruppo fin dal Gokyo del 1895; nessun inventore documentato.
 
 **Il principio.** *Kuzushi* (崩, squilibrio) verso il **posteriore** di uke: peso sui talloni, busto inclinato indietro. *Tsukuri* (作り, costruzione): piede sinistro profondo a lato del piede destro di uke, gamba destra di tori **diagonale dietro entrambe le gambe** di uke. *Kake* (掛, applicazione): leva con fulcro nella gamba destra; uke ruota all'indietro attorno a quell'asse, spinto dalla *tsuri-te* (釣手, mano al bavero che solleva) e tirato dalla *hiki-te* (引手, mano alla manica che tira). A differenza di o-soto-gari la gamba **non falcia**: resta fissa come asse e blocca entrambe le gambe.
@@ -25,6 +30,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Gamba-fulcro troppo alta o su una sola gamba: diventa o-soto-gari e si perde la «ruota». 2. Kuzushi posteriore insufficiente: uke fa perno o si siede sottraendo il fulcro. 3. Piede d'appoggio troppo vicino o lontano: non si regge la rotazione.
 
 ## 9.2 Uki-waza (浮技)
+
+![Uki-waza: la tecnica fluttuante (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId55.jpg)
+
+*Uki-waza: la tecnica fluttuante (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** 浮 (*uki*, fluttuante) + 技 (*waza*, tecnica): «tecnica fluttuante». *Yoko-sutemi-waza* (横捨技, sacrificio laterale): tori cade sul **fianco sinistro**. Nel Gokyo del 1895 era nel 4° gruppo; figura nel 5° gruppo del *Nage no Kata* (投の形). È la tecnica di **Nagaoka Hidekazu** (10° dan): di lui si diceva «la tecnica è sutemi, l'uomo è Nagaoka».
 
@@ -46,6 +56,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.3 Yoko-wakare (横分)
 
+![Yoko-wakare: la separazione laterale (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId56.jpg)
+
+*Yoko-wakare: la separazione laterale (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** 横 (*yoko*, lato) + 分 (*wakare*, da *wakareru*, separarsi): «separazione laterale». *Yoko-sutemi-waza*: tori cade su schiena-fianco sinistro e finisce **perpendicolare** a uke. Nel 5° gruppo fin dal 1895; il Judo Encyclopedia la collega a *Kuruma-gaeshi* e *Mizu-ire* del *Koshiki no Kata* (古式の形) e dell'*Itsutsu no Kata* (五の形).
 
 **Il principio.** Kuzushi verso l'angolo anteriore destro (o dritto in avanti), sulla punta del piede destro. Tsukuri: entrambe le gambe di tori **scivolano sotto/di fianco al piede destro di uke** e tori cade all'indietro-laterale. Kake: tecnica di **momento**: le braccia tirano-sollevano mentre il corpo di tori, cadendo, fa da **barriera** che impedisce il passo di recupero e convoglia uke in traiettoria **centrifuga** oltre il corpo esteso di tori, in rotazione attorno alla gamba tesa.
@@ -64,6 +79,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Cadere prima di aver completato lo tsukuri: uke scavalca la barriera con un passo e la tecnica si sgonfia. 2. Gambe non tese come sbarramento: uke crolla addosso a tori. 3. Angolo finale sbagliato: tori deve finire **perpendicolare** a uke, non parallelo.
 
 ## 9.4 Yoko-guruma (横車)
+
+![Yoko-guruma: la ruota laterale (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId57.jpg)
+
+*Yoko-guruma: la ruota laterale (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** 横 (*yoko*, lato) + 車 (*guruma*, ruota): «ruota laterale». *Yoko-sutemi-waza*: tori cade sul fianco sinistro e uke «ruota» sopra di lui. Nel 5° gruppo fin dal 1895; 2ª tecnica del 5° gruppo del Nage no Kata.
 
@@ -85,6 +105,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.5 Ushiro-goshi (後腰)
 
+![Ushiro-goshi: l’anca posteriore, difesa e controtiro contro le koshi-waza (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId58.jpg)
+
+*Ushiro-goshi: l’anca posteriore, difesa e controtiro contro le koshi-waza (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** 後 (*ushiro*, dietro) + 腰 (*goshi/koshi*, anca): «anca posteriore». *Koshi-waza*: l'anca di tori è il fulcro del sollevamento. Nel Gokyo del **1895** era nel **3° gruppo**, insieme a ura-nage; figura nel *Gonosen no Kata* (後の先の形, kata dei controtiri), dove risponde a kubi-nage.
 
 **Il principio.** Kuzushi verso il **posteriore** di uke, mentre questi carica in avanti per una proiezione di bacino. Tsukuri: tori **abbassa il proprio bacino sotto quello di uke**, preme l'anca sinistra contro il dorso dell'anca destra di uke e **circonda profondamente la vita** col braccio sinistro. Kake: tori distende le gambe **inarcandosi** — leva d'anca che stacca uke da terra — poi riapre a sinistra e lo **abbatte dritto davanti a sé**. Prima si «spegne» l'attacco abbassandosi, poi si ribalta il vettore dal basso verso l'alto e infine verso il basso.
@@ -104,6 +129,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Non abbassare il bacino **sotto** quello di uke: il sollevamento diventa sforzo di schiena e fallisce. 2. Presa di vita debole: uke scivola e riprende la sua proiezione. 3. Abbattere uke **senza averlo davvero sollevato**: senza il «galleggiamento» manca il momentum della ricaduta.
 
 ## 9.6 Ura-nage (裏投)
+
+![Ura-nage: la proiezione di rovescio (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId59.jpg)
+
+*Ura-nage: la proiezione di rovescio (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** 裏 (*ura*, rovescio) + 投 (*nage*, proiezione): «proiezione di rovescio». *Ma-sutemi-waza* (真捨技, sacrificio **supino**): tori cade **sulla schiena** — unica ma-sutemi del gruppo. Nel Gokyo del **1895** era nel **3° gruppo**; è la 2ª tecnica del 4° gruppo (ma-sutemi) del Nage no Kata.
 
@@ -125,6 +155,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 
 ## 9.7 Sumi-otoshi (隅落)
 
+![Sumi-otoshi: la caduta d’angolo (illustrazione: M. Hultström, CC BY-SA 2.0)](../assets/img/m-rId60.jpg)
+
+*Sumi-otoshi: la caduta d’angolo (illustrazione: M. Hultström, CC BY-SA 2.0)*
+
+
 **Nome e origine.** 隅 (*sumi*, angolo) + 落 (*otoshi*, far cadere): «caduta nell'angolo». *Te-waza*: nessuna gamba, nessun sacrificio. È **l'unica delle otto assente nel Gokyo del 1895**, introdotta con la **revisione del 1920**. Celebre la fotografia di **Kyūzō Mifune a settant'anni in un perfetto sumi-otoshi**; il «lancio aereo» (*kūki-nage*, 空気投) con cui atterrò un lottatore di sumo è identificato da taluni con sumi-otoshi, da altri con uki-otoshi.
 
 **Il principio.** Kuzushi verso l'**angolo posteriore destro** di uke (*migi-ushiro-sumi*), l'angolo «cieco» dell'appoggio: uke rigido sul **tallone destro**, col piede sinistro sospeso. Tsukuri: grande passo del piede sinistro **all'esterno** del piede destro di uke, *tai-sabaki* (体捌) con apertura a sinistra; la destra cambia presa sulla manica sinistra di uke. Kake: coppia di forze — la destra spinge il gomito di uke in alto ad arco, la sinistra tira dritto in basso; **fulcro: il tallone destro di uke**, attorno a cui uke descrive un ampio cerchio. Tori **non** usa il proprio corpo come fulcro: è la tecnica più «di mano» del gruppo.
@@ -144,6 +179,11 @@ Due avvertenze. Primo: molte tecniche del gruppo sono **«di risposta»**: Ushir
 **Errori comuni.** 1. Tirare **con la forza delle braccia** invece di usare tai-sabaki e direzione. 2. Angolo errato: se lo squilibrio non è **esattamente** nell'angolo posteriore destro, uke fa un passo e si salva. 3. Telegrafare la spinta iniziale: senza la reazione di ritorno non c'è momentum da sfruttare.
 
 ## 9.8 Yoko-gake (横掛)
+
+![Yoko-gake: l’aggancio laterale (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId61.jpg)
+
+*Yoko-gake: l’aggancio laterale (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** 横 (*yoko*, lato) + 掛 (*gake/kake*, agganciare): «aggancio laterale» (IJF: *side body drop*). *Yoko-sutemi-waza*: tori cade sul **fianco sinistro** agganciando la caviglia di uke; non è ashi-waza perché tori va al suolo con uke. Nel 5° gruppo fin dal Gokyo del **1895**; è la **1ª tecnica del 5° gruppo del Nage no Kata**. L'aneddoto che la volesse «la tecnica più cara a Mifune» in tarda età non è verificabile in citazione diretta e va riportato con cautela; certo è che la praticò e insegnò fino a tarda età. Da non confondere con **uki-goshi**, il *tokui-waza* (得意技) di Kanō.
 

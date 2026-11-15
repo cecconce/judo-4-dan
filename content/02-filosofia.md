@@ -12,6 +12,11 @@ Kanō lo illustrava con la metafora del salice che cede alla neve e non si spezz
 
 ## 2.2 Seiryoku Zenyō: il miglior uso dell'energia
 
+![Kanō (a sinistra) e Yamashita dimostrano hiki-otoshi del Koshiki-no-kata: il massimo rendimento con il minimo sforzo (foto d’epoca, pubblico dominio)](../assets/img/m-rId18.jpg)
+
+*Kanō (a sinistra) e Yamashita dimostrano hiki-otoshi del Koshiki-no-kata: il massimo rendimento con il minimo sforzo (foto d’epoca, pubblico dominio)*
+
+
 Nel **1922**, fondando la Società Culturale del Kōdōkan (Kōdōkan Bunkakai), Kanō fissò le due massime ufficiali del suo metodo. La prima, *Seiryoku Zenyō* (精力善用), è tradotta abitualmente "il miglior impiego dell'energia" o "la massima efficienza". Il punto decisivo — spesso trascurato — è che *seiryoku* comprende **l'energia fisica E quella mentale/spirituale**. Nella definizione del Kōdōkan: usare pienamente le proprie energie spirituali e fisiche per realizzare uno scopo prefissato è l'uso più efficace del potere della mente e del corpo. Kanō la chiamava esplicitamente «l'insegnamento fondamentale del judo».
 
 Sul piano tecnico, Seiryoku Zenyō si incarna nel *kuzushi* (崩し, lo squilibrio): proiettare un corpo in equilibrio richiede forza bruta; proiettarlo dopo averlo condotto fuori asse richiede una frazione di quell'energia. La triade kuzushi–tsukuri–kake (squilibrio–inserimento–esecuzione) è la grammatica operativa del principio: ogni spreco eliminato — la presa inutile, la tensione superflua, l'ingresso forzato — ne è un'applicazione. E nel randori impariamo la massima efficienza anche quando potremmo facilmente sopraffare l'avversario con la forza.

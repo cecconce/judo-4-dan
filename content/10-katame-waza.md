@@ -1,5 +1,10 @@
 # 10. La Katame-waza dei programmi federali
 
+![Il Katame-no-kata ai Campionati Asiatici (foto: Sanshiro5304, CC BY-SA 4.0)](../assets/img/m-rId62.jpg)
+
+*Il Katame-no-kata ai Campionati Asiatici (foto: Sanshiro5304, CC BY-SA 4.0)*
+
+
 La *Katame-waza* (固技, «tecniche di controllo/solidificazione») è il corpus della lotta al suolo — *ne-waza* (寝技) — del judo Kodokan, in tre famiglie: immobilizzazioni (*Osae-komi-waza* 押込技), strangolamenti (*Shime-waza* 絞技) e leve articolari (*Kansetsu-waza* 関節技). Il programma FIJLKAM la costruisce per gradi: al **1° dan** le quattro osae fondamentali, cinque shime, quattro kansetsu e il 1° gruppo del *Katame-no-kata*; al **2° dan** Ushiro-kesa, Kata-gatame, Makura-kesa, Kata-ha-jime, Ryō-te-jime, Hara-gatame, Hiza-gatame, il Katame-no-kata completo e — secondo la revisione — il gruppo Sankaku e l'*Hairi-kata* (入り方, «modo di entrare»); al **3° dan** Sankaku *omote/ura/yoko*, Tsukkomi-jime, Sankaku-gatame e le forme *Kuzure* di tutte le osae-waza.
 
 Al 4° dan il programma federale esige i programmi precedenti «completati da Hairi-kata, Renraku-waza e Kaeshi-waza»: la commissione non valuta la forma statica, ma *come si entra* (hairi-kata), *come si concatena* (*renraku* 連絡) e *come si rovescia* (*kaeshi* 返し). Il suolo è il banco di prova della maturità del candidato.
@@ -11,6 +16,11 @@ Al 4° dan il programma federale esige i programmi precedenti «completati da Ha
 Le *Osae-komi-waza* tengono la schiena — o entrambe le scapole — di uke al tatami col proprio peso. Il controllo è tridimensionale: **testa/spalle, busto, bacino**; trascurarne uno apre la via di fuga.
 
 ### Kesa-gatame 袈裟固 — «immobilizzazione a stola»
+
+![Kesa-gatame nel Katame-no-kata (foto: EIJC 2024, pubblico dominio)](../assets/img/m-rId63.jpg)
+
+*Kesa-gatame nel Katame-no-kata (foto: EIJC 2024, pubblico dominio)*
+
 
 **Nome e principio.** Dal *kesa*, la stola dei monaci buddhisti a bandoliera: il busto di tori avvolge il torace di uke allo stesso modo. Controllo laterale: petto su petto, un braccio cinge testa e collo, l'altro blocca il braccio vicino; la base larga delle gambe rende vano il ribaltamento.
 
@@ -26,6 +36,11 @@ Le *Osae-komi-waza* tengono la schiena — o entrambe le scapole — di uke al t
 
 ### Yoko-shiho-gatame 横四方固 — «laterale dei quattro angoli»
 
+![Yoko-shiho-gatame in allenamento (foto: Norkiña, CC BY-SA 4.0)](../assets/img/m-rId64.jpg)
+
+*Yoko-shiho-gatame in allenamento (foto: Norkiña, CC BY-SA 4.0)*
+
+
 **Nome e principio.** Tori trasversale sul busto di uke chiude i «quattro angoli» (*shiho* 四方): due spalle e due fianchi. La più «chiusa» delle immobilizzazioni: un braccio sotto la testa, l'altro tra le gambe alla cintura, petto aderente al petto, anche bassissime.
 
 **Esecuzione:** 1. Ginocchia accosto a spalla e anca di uke; braccio sinistro sotto la nuca al bavero destro. 2. Braccio destro tra le gambe di uke alla cintura. 3. Petto su petto, mento a terra oltre la spalla; gambe larghe e distese, avampiedi sul tatami. 4. Gomiti chiusi contro uke.
@@ -40,6 +55,11 @@ Le *Osae-komi-waza* tengono la schiena — o entrambe le scapole — di uke al t
 
 ### Kami-shiho-gatame 上四方固 — «superiore dei quattro angoli»
 
+![Kami-shiho-gatame (illustrazione: M. Hultström, CC BY-SA 2.0)](../assets/img/m-rId65.jpg)
+
+*Kami-shiho-gatame (illustrazione: M. Hultström, CC BY-SA 2.0)*
+
+
 **Nome e principio.** Tori oltre la **testa** di uke (*kami* 上, «sopra»), sterno contro sterno in direzione opposta, entrambe le braccia sotto le spalle fino alla cintura: blocca le spalle e schiaccia dall'alto; l'addome copre il volto di uke. È la risposta a chi difende le prese laterali con un ponte potente.
 
 **Esecuzione:** 1. Tori oltre la testa di uke, rivolto ai suoi piedi; braccia sotto le spalle di uke, mani alla cintura. 2. Sterno su sterno, addome sul volto. 3. Gambe larghe e distese, avampiedi sul tatami; gomiti chiusi ai fianchi di uke.
@@ -53,6 +73,11 @@ Le *Osae-komi-waza* tengono la schiena — o entrambe le scapole — di uke al t
 **Errori comuni:** braccia non alla cintura (uke libera il bacino pontando); busto eretto; gambe strette e ginocchia alte.
 
 ### Tate-shiho-gatame 縦四方固 — «longitudinale dei quattro angoli»
+
+![Tate-shiho-gatame (illustrazione: M. Hultström, CC BY-SA 2.0)](../assets/img/m-rId66.jpg)
+
+*Tate-shiho-gatame (illustrazione: M. Hultström, CC BY-SA 2.0)*
+
 
 **Nome e principio.** La posizione montata: tori a cavalcioni sul busto di uke (*tate* 縦, «longitudinale»), sdraiato in avanti petto su petto, controllo di testa e braccia, ginocchia strette ai fianchi. Per il Kodokan ogni forma montata è tate-shiho-gatame.
 
@@ -81,6 +106,11 @@ Le *Osae-komi-waza* tengono la schiena — o entrambe le scapole — di uke al t
 **Errori comuni:** dare la schiena a uke; braccio non bloccato; base stretta.
 
 ### Kata-gatame 肩固 — «immobilizzazione di spalla»
+
+![Kata-gatame nel Katame-no-kata (foto: Gotcha2, CC BY-SA 3.0)](../assets/img/m-rId67.jpg)
+
+*Kata-gatame nel Katame-no-kata (foto: Gotcha2, CC BY-SA 3.0)*
+
 
 **Nome e principio.** Tori blocca insieme **un braccio e il collo** di uke (*kata* 肩, «spalla»): il proprio braccio cinge il collo mentre il braccio vicino di uke è premuto contro il suo stesso volto; le mani unite creano una tenaglia che, se stretta, è di fatto anche uno strangolamento (head-and-arm).
 
@@ -113,6 +143,11 @@ Le *Osae-komi-waza* tengono la schiena — o entrambe le scapole — di uke al t
 Le *Shime-waza* agiscono sul collo con mani, braccia, gambe o col bavero del judogi; il meccanismo efficace è la **compressione bilaterale delle carotidi**. Le tre *juji-jime* (十字絞, «crociate»: 十 è il kanji del dieci, che figura la croce) si distinguono **solo per il modo di afferrare il bavero**.
 
 ### Kata-juji-jime 片十字絞 — «mezzo incrociato»
+
+![Kata-juji-jime (illustrazione: Judcosta, CC BY-SA 4.0)](../assets/img/m-rId68.jpg)
+
+*Kata-juji-jime (illustrazione: Judcosta, CC BY-SA 4.0)*
+
 
 **Nome e principio.** Una mano in presa normale (pollice dentro), l'altra inversa (dita dentro) (*kata* 片, «metà»): basta una mano a premere una carotide, mentre l'altra contro-tira. Prima shime-waza del Katame-no-kata.
 
@@ -156,6 +191,11 @@ Le *Shime-waza* agiscono sul collo con mani, braccia, gambe o col bavero del jud
 
 ### Hadaka-jime 裸絞 — «strangolamento nudo»
 
+![Hadaka-jime, lo strangolamento “a nudo” (foto: U.S. Army, pubblico dominio)](../assets/img/m-rId69.jpg)
+
+*Hadaka-jime, lo strangolamento “a nudo” (foto: U.S. Army, pubblico dominio)*
+
+
 **Nome e principio.** Si strangola **senza il judogi** (*hadaka* 裸, «nudo»): il braccio cinge il collo di uke da dietro, bicipite e avambraccio sulle carotidi. Tecnica istantanea ogni volta che l'avversario espone la schiena.
 
 **Esecuzione:** 1. Tori dietro uke (seduto/carponi), busto controllato con ganci o ginocchia; braccio destro attorno alla gola, gomito sotto il mento. 2. Mano destra al bicipite sinistro; mano sinistra dietro la nuca di uke. 3. Mani unite tirate al petto, uke aderente a tori; guancia contro la testa di uke, leggera estensione e chiusura.
@@ -184,6 +224,11 @@ Le *Shime-waza* agiscono sul collo con mani, braccia, gambe o col bavero del jud
 
 ### Kata-ha-jime 片羽絞 — «ad ala singola»
 
+![Kata-ha-jime nel Katame-no-kata (foto: EIJC 2024, pubblico dominio)](../assets/img/m-rId70.jpg)
+
+*Kata-ha-jime nel Katame-no-kata (foto: EIJC 2024, pubblico dominio)*
+
+
 **Nome e principio.** Da dietro, una mano al bavero davanti al collo (come okuri-eri) e l'altra **sotto il braccio di uke fin dietro la sua nuca** (*kata-ha* 片羽, «un'ala sola»): si strangola col bavero e si immobilizza un braccio («ala») di uke. Il braccio dietro la nuca lavora «a cavatappi», senza spingere il collo in avanti; punto chiave: raddrizzare la schiena di uke.
 
 **Esecuzione:** 1. Mano destra al bavero destro/nuca davanti alla spalla; mano sinistra sotto l'ascella sinistra di uke, poi dietro la sua nuca con rotazione dell'avambraccio. 2. Trazione della presa al bavero e pressione dell'avambraccio sulla nuca. 3. Ginocchio e gambe raddrizzano la schiena di uke; stringere.
@@ -211,6 +256,11 @@ Le *Shime-waza* agiscono sul collo con mani, braccia, gambe o col bavero del jud
 **Errori comuni:** pugni non ruotati; prese superficiali; peso del busto non impiegato.
 
 ### Sankaku-jime 三角絞 — «strangolamento triangolare»
+
+![Sankaku-jime in una foto d’epoca del kōsen judo (pubblico dominio)](../assets/img/m-rId71.jpg)
+
+*Sankaku-jime in una foto d’epoca del kōsen judo (pubblico dominio)*
+
 
 **Nome e principio.** Le **gambe** formano un triangolo (*sankaku* 三角) attorno a collo e braccio di uke: una gamba sopra la spalla, l'altra sotto l'ascella opposta, piede agganciato dietro il proprio ginocchio; il collo è compresso tra la coscia di tori e il braccio-spalla di uke stesso.
 
@@ -244,6 +294,11 @@ Le *Kansetsu-waza* agiscono — in gara solo sul **gomito** — con due meccanis
 
 ### Ude-garami 腕緘 — «braccio attorcigliato»
 
+![Ude-garami nel Katame-no-kata (foto: Gotcha2, pubblico dominio)](../assets/img/m-rId72.jpg)
+
+*Ude-garami nel Katame-no-kata (foto: Gotcha2, pubblico dominio)*
+
+
 **Nome e principio.** Leva in **torsione**, non estensione (*garami* 緘, «legare/avvolgere»): il braccio di uke piegato a 90° è ruotato oltre il fisiologico contro gomito e spalla, con presa «a figura-quattro» (una mano sul polso di uke, l'altro avambraccio sotto il suo braccio sul proprio polso).
 
 **Esecuzione (da kesa, braccio vicino):** 1. Uke spinge via il busto di tori col braccio intrappolato; la mano sinistra afferra il polso di uke. 2. Il braccio destro passa sotto il braccio piegato e chiude la figura-quattro. 3. Il polso di uke scende verso il tatami «dipingendo il pavimento» col dorso della sua mano; il peso resta sul busto.
@@ -257,6 +312,11 @@ Le *Kansetsu-waza* agiscono — in gara solo sul **gomito** — con due meccanis
 **Errori comuni:** gomito di uke non fissato; peso sollevato dal busto; figura-quattro chiusa lontano dal corpo.
 
 ### Ude-hishigi-juji-gatame 腕挫十字固 — «leva incrociata del braccio»
+
+![Ude-hishigi-juji-gatame nel Katame-no-kata (foto: Gotcha2, pubblico dominio)](../assets/img/m-rId73.jpg)
+
+*Ude-hishigi-juji-gatame nel Katame-no-kata (foto: Gotcha2, pubblico dominio)*
+
 
 **Nome e principio.** La leva per eccellenza (*juji* 十字: il corpo di tori incrocia il braccio di uke): il braccio teso è bloccato tra le cosce, il **bacino di tori è il fulcro** sotto il gomito, pollice di uke verso l'alto; sollevando i fianchi si iper-estende il gomito. Se la proiezione non ha dato ippon, il seguito in juji assicura il successo.
 
@@ -272,6 +332,11 @@ Le *Kansetsu-waza* agiscono — in gara solo sul **gomito** — con due meccanis
 
 ### Ude-gatame 腕固 — «leva con le braccia»
 
+![Ude-hishigi-ude-gatame nel Katame-no-kata (foto: EIJC 2024, pubblico dominio)](../assets/img/m-rId74.jpg)
+
+*Ude-hishigi-ude-gatame nel Katame-no-kata (foto: EIJC 2024, pubblico dominio)*
+
+
 **Nome e principio.** Abbreviazione di *Ude-hishigi-ude-gatame* 腕挫腕固: iper-estensione del gomito usando **il proprio braccio/avambraccio come fulcro** (non gambe né ascella); il braccio teso di uke è bloccato contro il petto di tori.
 
 **Esecuzione:** 1. Uke carponi o supino, polso afferrato a due mani. 2. Il proprio avambraccio/gomito contro il gomito di uke come fulcro. 3. Trazione del polso e pressione del gomito sul fulcro col peso del busto, corpo perpendicolare al braccio di uke.
@@ -285,6 +350,11 @@ Le *Kansetsu-waza* agiscono — in gara solo sul **gomito** — con due meccanis
 **Errori comuni:** fulcro fuori asse (su bicipite o avambraccio); polso non bloccato al petto; spazio alla rotazione di uke.
 
 ### Waki-gatame 腋固 — «leva ascellare»
+
+![Waki-gatame (foto: EIJC 2024, pubblico dominio)](../assets/img/m-rId75.jpg)
+
+*Waki-gatame (foto: EIJC 2024, pubblico dominio)*
+
 
 **Nome e principio.** Forma completa *Ude-hishigi-waki-gatame* 腕挫腋固: il braccio teso di uke è bloccato **sotto l'ascella** di tori (*waki* 腋), polso tenuto a due mani, e l'ascella-fianco fa da fulcro contro il gomito. Applicabile anche in piedi; in gara è **vietato lasciarsi cadere direttamente a faccia in giù** applicandola: la discesa dev'essere controllata.
 

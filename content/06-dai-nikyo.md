@@ -6,6 +6,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.1 Ko-soto-gari (小外刈)
 
+![Ko-soto-gari: la mietitura esterna sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId33.jpg)
+
+*Ko-soto-gari: la mietitura esterna sul tallone (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Ko* 小 (piccolo), *soto* 外 (esterno), *gari* 刈 (mietere/falciare): "piccola mietitura esterna". Famiglia: *ashi-waza* (足技, tecniche di gambe e piedi). Presente fin dal primo Gokyō del 1895, è la versione minore di *o-soto-gari*; nella didattica moderna è insegnata soprattutto come tecnica di reazione e di combinazione, e in competizione compare frequentemente nella forma *off-the-grip*, sulla gamba d'appoggio in uscita di presa.
 
 **Il principio.** Il *kuzushi* è all'angolo posteriore destro di uke: tutto il peso deve caricare il tallone destro, come in *o-soto-gari*, ma senza la grande entrata frontale — tori resta più esterno, di fianco. Il *tsukuri* colloca il piede destro di tori dietro il tallone e il polpaccio destro di uke. Il *kake* è una falciata corta, rasoterra, "a uncino", che sottrae la gamba caricata mentre le mani spingono e tirano uke all'indietro. Fulcro: il contatto tallone-polpaccio. Vettore: posteriore e basso. La differenza biomeccanica rispetto alla forma maggiore è la falciata breve dal basso, senza il passaggio della gamba di tori davanti al corpo di uke.
@@ -28,6 +33,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Spingere con le mani senza aver prima caricato uke sul tallone bersaglio.
 
 ## 6.2 Ko-uchi-gari (小内刈)
+
+![Ko-uchi-gari: la piccola mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId34.jpg)
+
+*Ko-uchi-gari: la piccola mietitura interna (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Ko* 小 (piccolo), *uchi* 内 (interno), *gari* 刈: "piccola mietitura interna". Famiglia: *ashi-waza*. Presente fin dal Gokyō del 1895, è descritta dalle fonti tecniche come virtualmente inarrestabile quando combinata con buon *kuzushi* e buon *debana* (tempismo); per la sua discrezione e il basso dispendio energetico è tra le falciate più utilizzate nel judo contemporaneo.
 
@@ -52,6 +62,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.3 Koshi-guruma (腰車)
 
+![Koshi-guruma: la ruota d’anca con la testa fuori (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId35.jpg)
+
+*Koshi-guruma: la ruota d’anca con la testa fuori (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Koshi* 腰 (anca), *guruma* 車 (ruota): "ruota dell'anca". Famiglia: *koshi-waza* (腰技, tecniche d'anca); è la prima tecnica nella lista Kōdōkan delle *koshi-waza*. Presente fin dal Gokyō del 1895, è una delle proiezioni storiche del *jūjutsu* assorbite nel repertorio canonico, apprezzata dagli insegnanti classici per l'adattabilità a ogni corporatura. Nell'era moderna Toshihiko Koga la impiegava volentieri contro i mancini, specialmente quando stavano piegati in avanti.
 
 **Il principio.** Il *kuzushi* è in avanti. Il *tsukuri* è l'entrata di schiena come in *o-goshi*, ma con due differenze decisive: il braccio destro cinge **il collo e la nuca** di uke (non la vita) e i fianchi di tori passano oltre il centro di uke. Il *kake* flette il busto e ruota: uke gira attorno all'anca di tori come una ruota attorno al mozzo. Fulcro: l'anca destra. Vettore: rotatorio in avanti, con centro di rotazione più alto rispetto a *o-goshi* — sono testa e spalle di uke a trascinare il capovolgimento. È una rotazione imposta dalla testa: la leva sul collo accelera la caduta.
@@ -74,6 +89,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Tirare il collo con la sola forza delle braccia: rischio di reazione di uke e di sollecitazioni pericolose al rachide; la rotazione deve sempre coinvolgere tutto il corpo.
 
 ## 6.4 Tsurikomi-goshi (釣込腰)
+
+![Tsurikomi-goshi: l’anca che solleva e attira (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId36.jpg)
+
+*Tsurikomi-goshi: l’anca che solleva e attira (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Tsuri* 釣 (sollevare/pescare), *komi* 込 (tirare dentro), *goshi* 腰 (anca): "anca che solleva e tira dentro". Famiglia: *koshi-waza*. Dato storico essenziale per l'esame: **non era inclusa nel Gokyō del 1895**; fu aggiunta verso la fine dell'era Meiji, intorno al **1911**, ed è stabilmente presente nella revisione del 1920. È la seconda delle *koshi-waza* del *Nage-no-kata* (投の形).
 
@@ -98,6 +118,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.5 Okuri-ashi-barai (送足払)
 
+![Okuri-ashi-barai: la spazzata laterale dei due piedi (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId37.jpg)
+
+*Okuri-ashi-barai: la spazzata laterale dei due piedi (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Okuri* 送 (inviare/accompagnare), *ashi* 足 (piede), *barai* 払 (spazzata): "spazzata del piede che accompagna" (grafia Kōdōkan corrente: *okuri-ashi-harai*). Famiglia: *ashi-waza*. Presente fin dal Gokyō del 1895 e compresa nel *Nage-no-kata*, è universalmente considerata una delle proiezioni dal timing più difficile dell'intero repertorio: spazzare due piedi in fase di traslazione laterale richiede un sincronismo perfetto.
 
 **Il principio.** Il *kuzushi* è laterale puro: uke si muove lateralmente — o viene spostato lateralmente dalle mani di tori — e i suoi due piedi si avvicinano. Nel *tsukuri* tori segue il movimento mantenendo la distanza e **accelerando** la traslazione con le mani (sollevamento-tirata laterale). Il *kake*: la pianta del piede di tori spazza **entrambi** i piedi di uke nel breve istante in cui sono uniti e scarichi, o in fase di ricongiungimento, nella direzione stessa del movimento. Non esiste un fulcro statico: è una spazzata "di massa" su entrambi gli appoggi. Vettore: laterale, nella direzione dello spostamento di uke, che cade sul fianco.
@@ -120,6 +145,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Colpire con il collo del piede invece che con la pianta, perdendo superficie di contatto.
 
 ## 6.6 Tai-otoshi (体落)
+
+![Tai-otoshi: la caduta del corpo (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId38.jpg)
+
+*Tai-otoshi: la caduta del corpo (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Tai* 体 (corpo), *otoshi* 落 (far cadere): "caduta del corpo". Famiglia: *te-waza* (手技, tecniche di braccia). Presente fin dal Gokyō del 1895, è la seconda *te-waza* del *Nage-no-kata*. È la tecnica simbolo del principio di "cedere per vincere" e la matrice delle proiezioni frontali a sacrificio parziale; la tradizione didattica la collega al gesto leggendario del *kūki-nage* ("proiezione dell'aria") di Mifune Kyūzō, 10° dan, in cui uke veniva proiettato quasi senza contatto delle gambe, per puro dominio del *kuzushi*: forma estrema dello stesso principio. Nell'agonismo moderno è diffusa la versione *drop*, in ginocchio.
 
@@ -144,6 +174,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 
 ## 6.7 Harai-goshi (払腰)
 
+![Harai-goshi: l’anca che spazza (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId39.jpg)
+
+*Harai-goshi: l’anca che spazza (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Harai* 払 (spazzare), *goshi* 腰 (anca): "anca che spazza". Famiglia: *koshi-waza*. La genesi è narrata dallo stesso Kanō Jigorō: il celebre allievo **Shiro Saigō** trovava sempre una contromossa a ogni tecnica, e contro l'*uki-goshi* del fondatore imparò a **saltare in avanti** liberando la gamba e sfuggendo. Kanō elaborò allora un modo per spazzare la gamba di fuga durante l'anca: nacque così *harai-goshi*. Anton Geesink la impiegò con efficacia nella vittoria olimpica di Tokyo 1964. È la terza *koshi-waza* del *Nage-no-kata*, tradizionalmente adatta a judoka alti e forti; testo di riferimento classico: *Harai Goshi* di Jean-Luc Rougé (Judo Masterclass).
 
 **Il principio.** Il *kuzushi* è in avanti-alto, da presa alta al bavero o alla nuca. Il *tsukuri* è l'entrata di schiena come in *o-goshi*, ma l'anca carica uke **in alto sul fianco** e la gamba destra di tori resta libera di oscillare. Il *kake*: la gamba destra spazza all'indietro e in alto contro la coscia anteriore-esterna destra di uke — "mandare il tallone al soffitto" — mentre il busto si flette e ruota a sinistra. Fulcro: l'anca destra. Il vettore combina sollevamento d'anca, pendolo della gamba e rotazione del busto: una coppia di forze a tre leve.
@@ -166,6 +201,11 @@ La logica del gruppo è leggibile con chiarezza: si aprono le versioni "minori" 
 - Busto eretto nel *kake*: senza flessione in avanti la gamba non può pendolare in alto.
 
 ## 6.8 Uchi-mata (内股)
+
+![Uchi-mata in gara (foto: Ari Kyllönen, CC BY-SA 4.0)](../assets/img/m-rId40.jpg)
+
+*Uchi-mata in gara (foto: Ari Kyllönen, CC BY-SA 4.0)*
+
 
 **Nome e origine.** *Uchi* 内 (interno), *mata* 股 (coscia/inguine): "interno coscia". Famiglia: *ashi-waza*, a chiusura del secondo gruppo. Presente fin dal Gokyō del 1895 e compresa nel *Nage-no-kata*; non risulta attribuibile con certezza a un singolo perfezionatore antico. Ciò che la documentazione moderna attesta senza equivoci è il suo primato statistico: **uchi-mata è la proiezione più decisiva della gara contemporanea**, prima per numero di finali olimpiche risolte. Tra gli specialisti verificati: Yasuhiro Yamashita (versione *ken-ken*, decisiva contro i non giapponesi), Kosei Inoue, Shohei Ono, Joshiro Maruyama, Hidehiko Yoshida, Naoya Ogawa, Teddy Riner, Ilias Iliadis, Anton Geesink. I dati scientifici indicano maggiore velocità esecutiva nei judoka alti e pesanti.
 

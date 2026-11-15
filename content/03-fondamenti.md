@@ -25,6 +25,11 @@ Attenzione a un errore frequente anche tra i cinture nere: ai-yotsu e kenka-yots
 
 ## 3.2 Kumi-kata: le prese
 
+![Kumi-kata: la presa fondamentale tsurite-hikite (foto: Norkiña, CC BY-SA 4.0)](../assets/img/m-rId19.jpg)
+
+*Kumi-kata: la presa fondamentale tsurite-hikite (foto: Norkiña, CC BY-SA 4.0)*
+
+
 La *kumi-kata* (組方), "il modo di impugnare", non è un dettaglio preliminare: è il **sottosistema tattico** che determina la geometria dell'attacco successivo. Nella presa standard (*hon-kumi*) in guardia destra, la mano destra — la *tsurite* (釣手, "mano che solleva") — afferra il bavero sinistro dell'avversario, possibilmente profonda verso il collo; la mano sinistra — la *hikite* (引手, "mano che tira") — afferra la manica destra, di norma all'altezza del gomito o del polsino esterno. La tsurite stabilisce la direzione del kuzushi; la hikite guida e vincola il braccio avversario durante la rotazione della proiezione.
 
 Le varianti principali da conoscere all'esame:
@@ -58,6 +63,15 @@ Lo scopo dello shintai è duplice: mantenere invariata la base d'appoggio con il
 
 ## 3.4 Tai-sabaki: i movimenti rotanti
 
+![Tai-sabaki: sottrarre il corpo dalla linea d’attacco con la rotazione (foto: Chova, CC0)](../assets/img/m-rId20.jpg)
+
+*Tai-sabaki: sottrarre il corpo dalla linea d’attacco con la rotazione (foto: Chova, CC0)*
+
+![Schema dei movimenti di tai-sabaki (illustrazione: Chrkl, CC BY-SA 3.0)](../assets/img/m-rId21.jpg)
+
+*Schema dei movimenti di tai-sabaki (illustrazione: Chrkl, CC BY-SA 3.0)*
+
+
 Il *tai-sabaki* (体捌, "governo del corpo") è il modo in cui il judoka cambia posizione e orientamento del corpo eseguendo o ricevendo una tecnica. Comprende il portamento del capo ("la testa poggia sul bacino, non sulle spalle"), l'uso degli occhi e l'uso del bacino. Si classificano quattro forme fondamentali:
 
 | **Tipo** | **Descrizione** |
@@ -76,6 +90,19 @@ La rotazione avviene sempre **sull'avampiede** (*tsumasaki*), mai sul tallone: i
 Il primo significato del tai-sabaki è difensivo: *non essere più dove arriva la forza*, uscire dalla linea dell'azione avversaria con tutto il corpo, non con il solo busto, secondo il principio del massimo rendimento (*seiryoku-zen'yō* 精力善用). Ma nel judo il tai-sabaki è soprattutto **tsukuri offensivo**: la stessa rotazione di 180° che sottrae il corpo è l'entrata di *o-goshi*, *seoi-nage*, *ippon-seoi-nage*, *uchi-mata* e *harai-goshi*, in cui il judoka gira *dentro* la guardia avversaria caricando uke sul bacino o sulla schiena. Di qui l'insegnamento chiave per l'esaminando: **il tai-sabaki è l'alfabeto dello tsukuri** — chi non possiede le rotazioni non possiede le entrate.
 
 ## 3.5 Ukemi: i principi delle cadute
+
+![Ushiro-ukemi, la caduta all’indietro (illustrazione: Chrkl, CC BY-SA 3.0)](../assets/img/m-rId22.jpg)
+
+*Ushiro-ukemi, la caduta all’indietro (illustrazione: Chrkl, CC BY-SA 3.0)*
+
+![Yoko-ukemi, la caduta laterale (illustrazione: Chrkl, CC BY-SA 3.0)](../assets/img/m-rId23.jpg)
+
+*Yoko-ukemi, la caduta laterale (illustrazione: Chrkl, CC BY-SA 3.0)*
+
+![Mae-ukemi, la caduta in avanti (illustrazione: Chrkl, CC BY-SA 3.0)](../assets/img/m-rId24.jpg)
+
+*Mae-ukemi, la caduta in avanti (illustrazione: Chrkl, CC BY-SA 3.0)*
+
 
 L'*ukemi* (受身) deriva da *ukeru*, "ricevere": è l'arte di **ricevere il suolo con il corpo**. Jigorō Kanō fu il primo a sistematizzarne l'insegnamento: prima di lui non esisteva un metodo didattico ordinato per cadere in sicurezza.
 

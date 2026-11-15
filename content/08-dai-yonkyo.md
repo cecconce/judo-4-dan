@@ -4,6 +4,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.1 Sumi-gaeshi (隅返)
 
+![Sumi-gaeshi: il rovesciamento d’angolo (illustrazione: Jdcollins13, CC BY-SA 3.0)](../assets/img/m-rId47.jpg)
+
+*Sumi-gaeshi: il rovesciamento d’angolo (illustrazione: Jdcollins13, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Sumi* (隅) significa «angolo», *gaeshi/kaeshi* (返) «rovesciare»: «ribaltamento d'angolo». Appartiene alle *ma-sutemi-waza* (真捨身技), tecniche di sacrificio con caduta sulla schiena. Presente fin dal Gokyō del 1895 (allora nel *dai-nikyō*), è la terza *ma-sutemi* del *Nage-no-kata*. La tradizione del *Tenjin Shinyō-ryū* — scuola madre del judo insieme al Kitō-ryū — annovera una *sumi-kaeshi* tra le tecniche confluite nel sistema di Kanō: un'origine plausibile e coerente con l'apprendimento del Fondatore, pur in assenza di un documento d'attribuzione singolo.
 
 **Il principio.** Come in *tomoe-nage*, *tori* cade supino sotto il baricentro di *uke*; ma il vettore di proiezione punta all'**angolo posteriore** (*ushiro-sumi*) e non oltre la testa in asse. Il *kuzushi* è in avanti, profondo; il fulcro è la schiena di *tori* al suolo; la leva è il collo del piede uncinato all'inguine di *uke*, che calcia in alto mentre le braccia continuano ad attrarre il corpo sopra di sé.
@@ -21,6 +26,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Cadere senza aver attratto *uke* in avanti: si finisce schiacciati sotto il suo peso. (2) Proiettare dritto oltre la testa: quella è *tomoe-nage*; *sumi-gaeshi* esce all'angolo. (3) Trazione delle braccia insufficiente durante la caduta: *uke* appoggia le mani al tatami e si libera.
 
 ## 8.2 Tani-otoshi (谷落)
+
+![Tani-otoshi: la caduta nella valle (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId48.jpg)
+
+*Tani-otoshi: la caduta nella valle (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Tani* (谷) è la «valle», *otoshi* (落) il «far cadere»: «caduta nella valle», nome appartenente alla categoria evocativa dei nomi «di sensazione». È una *yoko-sutemi-waza* (横捨身技), sacrificio sul fianco. Presente nel Gokyō del 1895 (*dai-nikyō*), ha radici documentate antichissime: è la **nona tecnica dell'Omote del *Koshiki-no-kata***, il kata che Kanō preservò dal *Kitō-ryū* — un'eredità diretta della scuola del «sorgere e cadere».
 
@@ -58,6 +68,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.4 Sukui-nage (掬投)
 
+![Sukui-nage in una tavola d’epoca giapponese (pubblico dominio)](../assets/img/m-rId49.jpg)
+
+*Sukui-nage in una tavola d’epoca giapponese (pubblico dominio)*
+
+
 **Nome e origine.** *Sukui* (掬) significa «raccogliere con la mano a conca», *nage* (投) «proiezione»: «proiezione a cucchiaio». *Te-waza* (手技). Dato storico essenziale per l'esame: la tecnica era storicamente nota anche come ***te-guruma*** («ruota di mani») — e con altri nomi quali *te-uchi-mata*, *butsudan-gaeshi*, *kin-tsukami* — finché il dipartimento di studio delle waza del Kōdōkan **unificò la denominazione ufficiale in *sukui-nage* nell'ottobre 1955**; da allora il Kōdōkan classifica formalmente *te-guruma* come *sukui-nage*. Entrò nel Gokyō con la revisione del 1920 (nel *kyū-Gokyō* del 1895 figurava la forma affine *obi-otoshi*). In gara, la versione con presa a entrambe le gambe è stata eliminata dal divieto IJF 2010-2013 di afferrare le gambe in *tachi-waza*.
 
 **Il principio.** *Kuzushi* all'indietro. *Tori* si porta alle spalle o di fianco a *uke*, **raccoglie dal basso** le gambe (o una mano tra le gambe e una sul fianco) e lo solleva «a cucchiaio», rovesciandolo all'indietro oltre la propria anca anteriore (fulcro). Vettore: prima in alto, poi indietro.
@@ -75,6 +90,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Sollevare con la schiena piegata: rischio lombare e leva inefficace — il sollevamento è delle gambe. (2) Raccogliere senza *kuzushi* all'indietro: *uke* resta piantato. (3) Ingresso telegrafato: *uke* schiva lateralmente e risponde.
 
 ## 8.5 Utsuri-goshi (移腰)
+
+![Utsuri-goshi: il cambio d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId50.jpg)
+
+*Utsuri-goshi: il cambio d’anca (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Utsuri* (移) significa «spostarsi, trasferirsi», *goshi* (腰) «anca»: «cambio d'anca» o «trasferimento d'anca». *Koshi-waza* (腰技). Presente fin dal Gokyō del 1895 (*dai-yonkyō*), è documentata in tutta la letteratura tecnica classica: Sasaki (1907), Yokoyama (1915), Kawaishi (1955), l'*Illustrated Kodokan Judo* (1955), Mifune e Daigo.
 
@@ -95,6 +115,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.6 O-guruma (大車)
 
+![O-guruma: la grande ruota (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId51.jpg)
+
+*O-guruma: la grande ruota (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
+
 **Nome e origine.** *Ō* (大) è «grande», *kuruma/guruma* (車) «ruota»: «grande ruota». *Ashi-waza* (足技). **Non** presente nel 1895: fu **aggiunta con la revisione del 1920**. Figura nell'*Illustrated Kodokan Judo* (1955) e nell'opera di Mifune.
 
 **Il principio.** L'ingresso ricorda *harai-goshi*, ma la gamba destra **tesa** si distende trasversalmente **davanti al basso addome e ai fianchi** di *uke* — più in alto di *harai-goshi* — e **non spazza**: funziona da asse fisso di una grande ruota. La rotazione delle spalle e la trazione circolare delle braccia fanno «ruotare» *uke* oltre la gamba. *Kuzushi* in avanti o all'angolo anteriore; fulcro: gamba tesa + anca aderente.
@@ -113,6 +138,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 
 ## 8.7 Soto-makikomi (外巻込)
 
+![Soto-makikomi in allenamento (foto: H. Zuehl, CC BY 2.5)](../assets/img/m-rId52.jpg)
+
+*Soto-makikomi in allenamento (foto: H. Zuehl, CC BY 2.5)*
+
+
 **Nome e origine.** *Soto* (外) è «esterno», *makikomi* (巻込) «avvolgere trascinando»: «avvolgimento esterno». *Yoko-sutemi-waza*. Presente fin dal Gokyō del 1895 (*dai-yonkyō* del *kyū-Gokyō* — tra le *makikomi* originali del sistema) e ricollocata nel medesimo gruppo nel 1920; trattata da Mifune, Kawaishi e Daigo.
 
 **Il principio.** Dopo un ingresso tipo *harai-goshi*/*koshi-waza*, il braccio destro di *tori* **avvolge dall'esterno** il busto (e spesso il braccio) di *uke*; *tori* sacrifica cadendo sul fianco e **continua la rotazione**, trascinando l'avversario avvitato al suolo. *Kuzushi* in avanti; fulcro: il contatto dei corpi; vettore: rotazionale, dato dalla trazione più il peso del corpo in caduta. Insieme a *hane-makikomi*, è il modello didattico degli «avvolgimenti»: la proiezione si completa a terra senza mai interrompere il momento rotatorio.
@@ -130,6 +160,11 @@ Il *Dai-yonkyō* (第四教, «quarto insegnamento») raccoglie otto tecniche ch
 **Errori comuni.** (1) Sacrificarsi prima del *kuzushi*: *uke* rotola via o contrattacca. (2) Avvolgimento lento o interrotto: si spezza il momento rotatorio. (3) Cadere con tutto il peso sul braccio avvolto di *uke*: rischio traumatico alla spalla del partner — in didattica il controllo dell'atterraggio è obbligatorio.
 
 ## 8.8 Uki-otoshi (浮落)
+
+![Uki-otoshi: la caduta fluttuante (illustrazione: M. Hultström, CC BY-SA 3.0)](../assets/img/m-rId53.jpg)
+
+*Uki-otoshi: la caduta fluttuante (illustrazione: M. Hultström, CC BY-SA 3.0)*
+
 
 **Nome e origine.** *Uki* (浮) significa «galleggiare», *otoshi* (落) «far cadere»: «caduta fluttuante». *Te-waza*. Presente fin dal Gokyō del 1895 (*dai-yonkyō*), è la **prima tecnica del *Nage-no-kata***: collocazione interpretata come omaggio al *Kitō-ryū* — la scuola che Kanō stava apprendendo quando formulò il kata — di cui *uki-otoshi* riprende il principio (è affine a *mizu-nagare* e *hiki-otoshi* del *Koshiki-no-kata*). Il Kōdōkan precisa che *uki-otoshi* e *sumi-otoshi* appartengono alla stessa famiglia tradizionalmente detta ***kuki-nage***.
 
