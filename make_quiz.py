@@ -76,7 +76,6 @@ for gi, tb in enumerate(gtabs):
         src = f"Cap. 4 (classificazione): {name} ({kanji}) è la tecnica n. {n} del {GRUPPI[gi]}, famiglia {fam}."
         add(t, f"A quale famiglia appartiene {name} secondo la classificazione Kōdōkan?", fam,
             pick(sorted(set(all_fam)), [fam]), src)
-        add(t, f"Quale kanji corrisponde a {name}?", kanji, pick(all_kanji, [kanji]), src)
         add(t, f"Nel {GRUPPI[gi].split(' (')[0]}, quale tecnica occupa la posizione n. {n}?", name,
             pick(names, [name]), src)
 
@@ -93,12 +92,21 @@ kt = next(t for t in tables(c13) if t[0][:3] == ["N.", "Serie", "Nome"])[1:]
 k_names = [re.sub(r"\s*\(.*\)", "", r[2]) for r in kt]
 k_att = [r[4] for r in kt]
 assert len(kt) == 20
-for r in kt:
-    n, serie, nome = r[0], r[1], re.sub(r"\s*\(.*\)", "", r[2])
+ORD = ["", "prima", "seconda", "terza", "quarta", "quinta", "sesta", "settima", "ottava", "nona", "decima", "undicesima", "dodicesima"]
+SER = {"Idori": "in ginocchio (Idori)", "Tachiai": "in piedi (Tachiai)"}
+def art(w):
+    return ("l'" if w[0] in 'aeiou' else 'la ') + w
+
+
+def kl(i):
+    return f"«{k_names[i]}» della serie {SER[kt[i][1]]}"
+for i, r in enumerate(kt):
+    n, serie, nome = int(r[0]), r[1], k_names[i]
+    pos = n if serie == "Idori" else n - 8
     src = f"Cap. 13 (struttura del kata): n. {n} {serie} — {nome}: Uke {r[4]}; Tori: {r[5]}."
-    add("13", f"Quale tecnica è la n. {n} del Kime no Kata?", f"{nome} ({serie})",
-        pick([f"{x} ({kt[i][1]})" for i, x in enumerate(k_names)], [f"{nome} ({serie})"]), src)
-    add("13", f"Nel Kime no Kata, che attacco porta Uke in {nome} ({serie})?", r[4], pick(k_att, [r[4]]), src)
+    add("13", f"Nel Kime no Kata, qual è {art(ORD[pos])} tecnica {SER[serie]}, cioè la n. {n} del kata?", nome,
+        pick(k_names, [nome]), src)
+    add("13", f"Nel Kime no Kata, che attacco porta Uke in {kl(i)}?", r[4], pick(k_att, [r[4]]), src)
 
 # ---------------------------------------------------------------- Goshin-jutsu (cap. 14) dalle tabelle 2.2 e 2.3
 c14 = read(chap("14").name)
@@ -112,18 +120,16 @@ t_att = [r[3] for r in toshu]
 for r in toshu:
     src = f"Cap. 14, tab. 2.2 (Toshu no bu): n. {r[0]} {r[1]} ({r[2]}) — attacco: {r[3]}."
     add("14", f"Quale tecnica è la n. {r[0]} del Toshu no bu (mani nude) del Goshin-jutsu?", r[1], pick(t_names, [r[1]]), src)
-    add("14", f"Quale kanji corrisponde a {r[1]} (Toshu no bu)?", r[2], pick(t_kanji, [r[2]]), src)
     add("14", f"Nel Goshin-jutsu, quale attacco subisce Tori in {r[1]}?", r[3], pick(t_att, [r[3]]), src)
 b_names = [r[1] for r in buki]
 b_kanji = [r[2] for r in buki]
 for r in buki:
     src = f"Cap. 14, tab. 2.3 (Buki no bu): n. {r[0]} {r[1]} ({r[2]}) — arma: {r[3]}."
     add("14", f"Quale tecnica è la n. {r[0]} del Buki no bu (armi) del Goshin-jutsu?", r[1], pick(b_names, [r[1]]), src)
-    add("14", f"Quale kanji corrisponde a {r[1]} (Buki no bu)?", r[2], pick(b_kanji, [r[2]]), src)
 
 # ---------------------------------------------------------------- Memorizzazione (cap. 17): ordine delle tecniche
 for i in range(len(k_names) - 1):
-    add("17", f"Nel Kime no Kata, quale tecnica segue {k_names[i]} (n. {i + 1})?", k_names[i + 1],
+    add("17", f"Nel Kime no Kata, quale tecnica segue {kl(i)}, la n. {i + 1}?", k_names[i + 1],
         pick(k_names, [k_names[i], k_names[i + 1]]),
         f"Cap. 13/17: l'ordine del Kime no Kata è fisso; dopo n. {i + 1} {k_names[i]} viene n. {i + 2} {k_names[i + 1]}.")
 for i in range(len(t_names) - 1):
@@ -316,6 +322,12 @@ for f in sorted((ROOT / "content").glob("*.md")):
     n = sum(1 for q in Q if q["t"] == tid)
     if n:
         topics.append({"id": tid, "title": title, "n": n})
+
+# niente kanji in domande e risposte (la commissione non li chiede); restano nelle spiegazioni
+CJK = re.compile(r"\s*\([^)]*[\u3000-\u9fff\uff00-\uffef][^)]*\)")
+for q in Q:
+    q["q"] = CJK.sub("", q["q"])
+    q["o"] = [CJK.sub("", o) for o in q["o"]]
 
 # controlli
 for q in Q:
