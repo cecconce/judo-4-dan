@@ -15,7 +15,7 @@ ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "c"
 SITE = "Judo 4° Dan"
-VERSION = "v8"
+VERSION = "v9"
 
 
 def slugify_title(md_text):

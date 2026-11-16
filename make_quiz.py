@@ -124,15 +124,30 @@ assert len(toshu) == 12 and len(buki) == 9, (len(toshu), len(buki))
 t_names = [r[1] for r in toshu]
 t_kanji = [r[2] for r in toshu]
 t_att = [r[3] for r in toshu]
+def g_toshu(n):
+    # cap. 14/17: schema 7 + 5 (presa e strangolamento | colpo e calcio)
+    return "di presa o strangolamento" if n <= 7 else "di colpo o calcio"
+
+
+def g_buki(n):
+    return "contro il coltello" if n <= 3 else ("contro il bastone" if n <= 6 else "contro la pistola")
+
+
 for r in toshu:
+    n = int(r[0])
+    gr = [int(x[0]) for x in toshu if g_toshu(int(x[0])) == g_toshu(n)]
+    pos = gr.index(n) + 1
     src = f"Cap. 14, tab. 2.2 (Toshu no bu): n. {r[0]} {r[1]} ({r[2]}) — attacco: {r[3]}."
-    add("14", f"Quale tecnica è la n. {r[0]} del Toshu no bu (mani nude) del Goshin-jutsu?", r[1], pick(t_names, [r[1]]), src)
-    add("14", f"Nel Goshin-jutsu, quale attacco subisce Tori in {r[1]}?", r[3], pick(t_att, [r[3]]), src)
+    add("14", f"Nel Goshin-jutsu, qual è {art(ORD[pos])} tecnica {g_toshu(n)} a mani nude, cioè la n. {n} del Toshu no bu?", r[1], pick(t_names, [r[1]]), src)
+    add("14", f"Nel Goshin-jutsu, quale attacco subisce Tori in {r[1]} (Toshu no bu, n. {n})?", r[3], pick(t_att, [r[3]]), src)
 b_names = [r[1] for r in buki]
 b_kanji = [r[2] for r in buki]
 for r in buki:
+    n = int(r[0])
+    gr = [int(x[0]) for x in buki if g_buki(int(x[0])) == g_buki(n)]
+    pos = gr.index(n) + 1
     src = f"Cap. 14, tab. 2.3 (Buki no bu): n. {r[0]} {r[1]} ({r[2]}) — arma: {r[3]}."
-    add("14", f"Quale tecnica è la n. {r[0]} del Buki no bu (armi) del Goshin-jutsu?", r[1], pick(b_names, [r[1]]), src)
+    add("14", f"Nel Goshin-jutsu, qual è {art(ORD[pos])} tecnica {g_buki(n)}, cioè la n. {n} del Buki no bu (armi)?", r[1], pick(b_names, [r[1]]), src)
 
 # ---------------------------------------------------------------- Memorizzazione (cap. 17): ordine delle tecniche
 for i in range(len(k_names) - 1):
@@ -140,11 +155,11 @@ for i in range(len(k_names) - 1):
         pick(k_names, [k_names[i], k_names[i + 1]]),
         f"Cap. 13/17: l'ordine del Kime no Kata è fisso; dopo n. {i + 1} {k_names[i]} viene n. {i + 2} {k_names[i + 1]}.")
 for i in range(len(t_names) - 1):
-    add("17", f"Nel Toshu no bu del Goshin-jutsu, quale tecnica segue {t_names[i]} (n. {i + 1})?", t_names[i + 1],
+    add("17", f"Nel Goshin-jutsu, a mani nude (Toshu no bu), quale tecnica segue {t_names[i]}, la n. {i + 1}?", t_names[i + 1],
         pick(t_names, [t_names[i], t_names[i + 1]]),
         f"Cap. 14/17: dopo n. {i + 1} {t_names[i]} viene n. {i + 2} {t_names[i + 1]}.")
 for i in range(len(b_names) - 1):
-    add("17", f"Nel Buki no bu del Goshin-jutsu, quale tecnica segue {b_names[i]} (n. {i + 1})?", b_names[i + 1],
+    add("17", f"Nel Goshin-jutsu, con le armi (Buki no bu), quale tecnica segue {b_names[i]} ({g_buki(i + 1)}), la n. {i + 1}?", b_names[i + 1],
         pick(b_names, [b_names[i], b_names[i + 1]]),
         f"Cap. 14/17: dopo n. {i + 1} {b_names[i]} viene n. {i + 2} {b_names[i + 1]}.")
 add("17", "Come si ripartiscono le 20 tecniche del Kime no Kata?", "8 Idori (in ginocchio) e 12 Tachiai (in piedi)",
