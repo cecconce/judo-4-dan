@@ -100,11 +100,18 @@ def art(w):
 
 def kl(i):
     return f"«{k_names[i]}» della serie {SER[kt[i][1]]}"
+def arma(n):
+    # cap. 13: il pugnale entra alla n. 6 ed esce dopo la n. 18; la spada solo alle n. 19-20
+    return "senza armi" if n in (1, 2, 3, 4, 5, 9, 10, 11, 12, 13, 14, 15, 16) else (
+        "con il pugnale (tantō)" if n in (6, 7, 8, 17, 18) else "con la spada")
+
+
 for i, r in enumerate(kt):
     n, serie, nome = int(r[0]), r[1], k_names[i]
-    pos = n if serie == "Idori" else n - 8
+    gruppo = [int(x[0]) for x in kt if x[1] == serie and arma(int(x[0])) == arma(n)]
+    pos = gruppo.index(n) + 1
     src = f"Cap. 13 (struttura del kata): n. {n} {serie} — {nome}: Uke {r[4]}; Tori: {r[5]}."
-    add("13", f"Nel Kime no Kata, qual è {art(ORD[pos])} tecnica {SER[serie]}, cioè la n. {n} del kata?", nome,
+    add("13", f"Nel Kime no Kata, qual è {art(ORD[pos])} tecnica {SER[serie]}, {arma(n)}, cioè la n. {n} del kata?", nome,
         pick(k_names, [nome]), src)
     add("13", f"Nel Kime no Kata, che attacco porta Uke in {kl(i)}?", r[4], pick(k_att, [r[4]]), src)
 
