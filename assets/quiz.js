@@ -11,23 +11,22 @@ function setup(keepN){
  data.topics.forEach(function(t){
   h+='<label class="qt'+(sel[t.id]?' on':'')+'"><input type="checkbox" data-id="'+t.id+'"'+(sel[t.id]?' checked':'')+'><span>'+esc(t.title)+'</span><small>'+t.n+'</small></label>';
  });
- h+='</div><h2>Numero di domande</h2><div class="qnum"><label>Scrivi il numero (da 1 a '+MAXQ+'): <input id="q-n" type="number" min="1" max="'+MAXQ+'" value="'+n0+'" inputmode="numeric" pattern="[0-9]*"></label></div>';
+ h+='</div><h2>Numero di domande</h2><div class="qnum"><label>Scrivi il numero (da 1 a '+MAXQ+'): <input id="q-n" type="text" value="'+n0+'" inputmode="numeric" pattern="[0-9]*" autocomplete="off" maxlength="2"></label></div>';
  h+='<p id="q-info" class="qhint"></p><button type="button" id="q-start" class="qgo">Inizia il quiz</button>';
  root.innerHTML=h;
  var num=document.getElementById('q-n'),info=document.getElementById('q-info'),go=document.getElementById('q-start');
+ function eff(){var a=avail(),cap=Math.min(MAXQ,a),v=parseInt(num.value,10);if(isNaN(v)||v<1)v=Math.min(10,cap);return Math.max(a?1:0,Math.min(v,cap))}
  function refresh(){
-  var a=avail(),v=parseInt(num.value,10)||0,cap=Math.min(MAXQ,a);
-  if(v>cap){v=cap;num.value=cap}
-  if(v<1&&a>0){v=1;num.value=1}
-  num.max=Math.max(1,cap);
-  info.textContent=a?('Domande disponibili negli argomenti scelti: '+a+'. Massimo per quiz: '+MAXQ+'.'):'Seleziona almeno un argomento.';
+  var a=avail();
+  info.textContent=a?('Domande disponibili negli argomenti scelti: '+a+'. Verranno fatte '+eff()+' domande (massimo '+MAXQ+').'):'Seleziona almeno un argomento.';
   go.disabled=!a;
  }
+ num.onblur=function(){num.value=eff()||'';refresh()};
  root.querySelectorAll('.qt input').forEach(function(i){i.onchange=function(){sel[i.dataset.id]=i.checked;i.parentNode.classList.toggle('on',i.checked);refresh()}});
- document.getElementById('q-all').onclick=function(){data.topics.forEach(function(t){sel[t.id]=true});setup(+num.value)};
- document.getElementById('q-none').onclick=function(){sel={};setup(+num.value)};
+ document.getElementById('q-all').onclick=function(){data.topics.forEach(function(t){sel[t.id]=true});setup(eff())};
+ document.getElementById('q-none').onclick=function(){sel={};setup(eff())};
  num.oninput=refresh;
- go.onclick=function(){start(parseInt(num.value,10)||10)};
+ go.onclick=function(){start(eff())};
  refresh();
 }
 function build(n,qs){
